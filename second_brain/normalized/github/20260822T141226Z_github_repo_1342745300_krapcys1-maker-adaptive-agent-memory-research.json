@@ -1,0 +1,30 @@
+{
+  "raw_id": "github-repo-1342745300",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:07Z",
+  "title": "krapcys1-maker/adaptive-agent-memory-research",
+  "company": "krapcys1-maker",
+  "description": "Open research on local-first, model-agnostic long-term memory for LLM agents",
+  "url": "https://github.com/krapcys1-maker/adaptive-agent-memory-research",
+  "skills": [
+    "agents",
+    "llm",
+    "rag"
+  ],
+  "topics": [
+    "ai-agents",
+    "cognitive-science",
+    "knowledge-graph",
+    "llm",
+    "local-first",
+    "long-term-memory",
+    "rag",
+    "research"
+  ],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Open research on local-first, model-agnostic long-term memory for LLM agents",
+  "search_query": "rag"
+}

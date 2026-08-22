@@ -1,0 +1,12 @@
+{
+  "score": 36,
+  "breakdown": {
+    "alignment": 30,
+    "impact": 25,
+    "feasibility": 70,
+    "skill_match": 50,
+    "urgency": 10
+  },
+  "confidence": 0.6,
+  "notes": "Repo shows inference and MLOps skills but does not directly target generative AI engineering."
+}

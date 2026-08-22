@@ -1,0 +1,7 @@
+```json
+{
+  "score": 42,
+  "breakdown": {
+    "alignment": 30,
+    "impact": 25,
+    "feasibility

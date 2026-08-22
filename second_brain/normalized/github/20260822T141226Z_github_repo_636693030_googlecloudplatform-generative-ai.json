@@ -1,0 +1,38 @@
+{
+  "raw_id": "github-repo-636693030",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T10:48:48Z",
+  "title": "GoogleCloudPlatform/generative-ai",
+  "company": "GoogleCloudPlatform",
+  "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
+  "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+  "skills": [
+    "agents",
+    "generative ai",
+    "langchain",
+    "llm"
+  ],
+  "topics": [
+    "agents",
+    "gcp",
+    "gemini",
+    "gemini-api",
+    "gen-ai",
+    "generative-ai",
+    "google",
+    "google-cloud",
+    "google-gemini",
+    "langchain",
+    "large-language-models",
+    "llm",
+    "vertex-ai",
+    "vertex-ai-gemini-api",
+    "vertexai"
+  ],
+  "language": "Jupyter Notebook",
+  "stars": 17612,
+  "forks": 4417,
+  "raw_text_excerpt": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
+  "search_query": "generative ai"
+}

@@ -1,0 +1,43 @@
+{
+  "raw_id": "github-repo-626805178",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T13:52:29Z",
+  "title": "langgenius/dify",
+  "company": "langgenius",
+  "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+  "url": "https://github.com/langgenius/dify",
+  "skills": [
+    "llm",
+    "mcp",
+    "python",
+    "rag"
+  ],
+  "topics": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "automation",
+    "claude",
+    "genai",
+    "gpt",
+    "llm",
+    "low-code",
+    "mcp",
+    "nextjs",
+    "no-code",
+    "openai",
+    "orchestration",
+    "python",
+    "rag",
+    "skills",
+    "workflow"
+  ],
+  "language": "TypeScript",
+  "stars": 153189,
+  "forks": 24185,
+  "raw_text_excerpt": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+  "search_query": "llm"
+}

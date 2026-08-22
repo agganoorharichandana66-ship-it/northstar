@@ -1,0 +1,12 @@
+{
+  "score": 54,
+  "breakdown": {
+    "alignment": 50,
+    "impact": 30,
+    "feasibility": 80,
+    "skill_match": 60,
+    "urgency": 70
+  },
+  "confidence": 0.6,
+  "notes": "Repository shows generative AI knowledge but limited engineering depth; moderate alignment to North Star."
+}

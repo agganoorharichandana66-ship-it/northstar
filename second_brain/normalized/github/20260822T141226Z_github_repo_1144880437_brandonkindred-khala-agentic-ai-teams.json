@@ -1,0 +1,43 @@
+{
+  "raw_id": "github-repo-1144880437",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:08Z",
+  "title": "brandonkindred/Khala-Agentic-AI-Teams",
+  "company": "brandonkindred",
+  "description": "Many Agents, one objective... yours ",
+  "url": "https://github.com/brandonkindred/Khala-Agentic-AI-Teams",
+  "skills": [
+    "agents",
+    "docker",
+    "llm",
+    "python"
+  ],
+  "topics": [
+    "agent-framework",
+    "agentic-ai",
+    "ai-agents",
+    "ai-orchestration",
+    "angular",
+    "anthropic-claude",
+    "autonomous-agents",
+    "code-generation",
+    "docker",
+    "fastapi",
+    "generative-ai",
+    "llm",
+    "llm-agents",
+    "multi-agent-systems",
+    "ollama",
+    "postgresql",
+    "pydantic",
+    "python",
+    "temporal",
+    "typescript"
+  ],
+  "language": "Python",
+  "stars": 5,
+  "forks": 2,
+  "raw_text_excerpt": "Many Agents, one objective... yours ",
+  "search_query": "llm"
+}

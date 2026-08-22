@@ -1,0 +1,31 @@
+{
+  "source": "rss",
+  "date": "Thu, 06 Nov 2025 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-c23d8b2c0ce47c2d",
+  "raw_id": "rss-c23d8b2c0ce47c2d",
+  "title": "Accelerating LLM inference with speculative decoding: Lessons from LinkedIn's Hiring Assistant",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/ai/accelerating-llm-inference-with-speculative-decoding-lessons-from-linkedins-hiring-assistant",
+  "date_posted": "",
+  "tags": [],
+  "skills": [
+    "inference",
+    "llm"
+  ],
+  "responsibilities": [
+    "inference"
+  ],
+  "raw_text_excerpt": "Accelerating LLM inference with speculative decoding: Lessons from LinkedIn's Hiring Assistant\nAccelerating LLM inference with speculative decoding: Lessons from LinkedIn's Hiring Assistant",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

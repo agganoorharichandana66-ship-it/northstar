@@ -1,0 +1,19 @@
+{
+  "raw_id": "github-repo-1107171097",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:11:35Z",
+  "title": "Mustehsan-Nisar-Rao/RAG",
+  "company": "Mustehsan-Nisar-Rao",
+  "description": "",
+  "url": "https://github.com/Mustehsan-Nisar-Rao/RAG",
+  "skills": [
+    "rag"
+  ],
+  "topics": [],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "{\n  \"id\": 1107171097,\n  \"node_id\": \"R_kgDOQf4XGQ\",\n  \"name\": \"RAG\",\n  \"full_name\": \"Mustehsan-Nisar-Rao/RAG\",\n  \"private\": false,\n  \"owner\": {\n    \"login\": \"Mustehsan-Nisar-Rao\",\n    \"id\": 147530703,\n    \"node_id\": \"U_kgDOCMsjzw\",\n    \"avatar_url\": \"https://avatars.githubusercontent.com/u/147530703?v=4\",\n    \"gravatar_id\": \"\",\n    \"url\": \"https://api.github.com/users/Mustehsan-Nisar-Rao\",\n    \"html_url\": \"https://github.com/Mustehsan-Nisar-Rao\",\n    \"followers_url\": \"https://api.github.com/users",
+  "search_query": "rag"
+}

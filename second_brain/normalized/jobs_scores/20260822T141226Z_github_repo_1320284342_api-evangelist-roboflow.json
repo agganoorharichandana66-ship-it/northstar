@@ -1,0 +1,12 @@
+{
+  "score": 33,
+  "breakdown": {
+    "alignment": 20,
+    "impact": 30,
+    "feasibility": 80,
+    "skill_match": 40,
+    "urgency": 10
+  },
+  "confidence": 0.6,
+  "notes": "Repository focuses on computer vision and MLOps, not generative AI; limited alignment but provides inference experience."
+}

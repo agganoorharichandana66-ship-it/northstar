@@ -1,0 +1,41 @@
+{
+  "raw_id": "github-repo-1341409634",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:03Z",
+  "title": "wenxuanzhang1209-cyber/jkinco-listen-open",
+  "company": "wenxuanzhang1209-cyber",
+  "description": "Local-first AI meeting minutes workbench: FunASR speech-to-text + Ollama LLM, engineering-scene recognition, DOCX/PDF export, zero API keys, fully offline. 本地优先的智能会议纪要工作台：录音转写、场景识别、纪要导出全流程本地运行。",
+  "url": "https://github.com/wenxuanzhang1209-cyber/jkinco-listen-open",
+  "skills": [
+    "docker",
+    "llm"
+  ],
+  "topics": [
+    "ai",
+    "asr",
+    "audio-processing",
+    "chinese",
+    "docker",
+    "fastapi",
+    "funasr",
+    "llm",
+    "local-first",
+    "local-llm",
+    "meeting-minutes",
+    "meetings",
+    "offline-first",
+    "ollama",
+    "privacy",
+    "react",
+    "self-hosted",
+    "speech-to-text",
+    "transcription",
+    "typescript"
+  ],
+  "language": "Python",
+  "stars": 1,
+  "forks": 0,
+  "raw_text_excerpt": "Local-first AI meeting minutes workbench: FunASR speech-to-text + Ollama LLM, engineering-scene recognition, DOCX/PDF export, zero API keys, fully offline. 本地优先的智能会议纪要工作台：录音转写、场景识别、纪要导出全流程本地运行。",
+  "search_query": "llm"
+}

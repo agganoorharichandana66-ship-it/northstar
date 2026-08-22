@@ -1,0 +1,12 @@
+{
+  "score": 42,
+  "breakdown": {
+    "alignment": 35,
+    "impact": 15,
+    "feasibility": 70,
+    "skill_match": 60,
+    "urgency": 50
+  },
+  "confidence": 0.8,
+  "notes": "Repository shows GPU orchestration for training/fine-tuning, relevant to GenAI but not a direct job; moderate portfolio signal."
+}

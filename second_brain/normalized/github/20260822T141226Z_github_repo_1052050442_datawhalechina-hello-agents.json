@@ -1,0 +1,26 @@
+{
+  "raw_id": "github-repo-1052050442",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:02:23Z",
+  "title": "datawhalechina/hello-agents",
+  "company": "datawhalechina",
+  "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+  "url": "https://github.com/datawhalechina/hello-agents",
+  "skills": [
+    "agents",
+    "llm",
+    "rag"
+  ],
+  "topics": [
+    "agent",
+    "llm",
+    "rag",
+    "tutorial"
+  ],
+  "language": "Python",
+  "stars": 74208,
+  "forks": 9220,
+  "raw_text_excerpt": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+  "search_query": "rag"
+}

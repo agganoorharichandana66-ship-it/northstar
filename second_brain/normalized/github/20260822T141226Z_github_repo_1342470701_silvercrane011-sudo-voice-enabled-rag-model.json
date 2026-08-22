@@ -1,0 +1,19 @@
+{
+  "raw_id": "github-repo-1342470701",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:19Z",
+  "title": "silvercrane011-sudo/Voice-Enabled-RAG-Model",
+  "company": "silvercrane011-sudo",
+  "description": "",
+  "url": "https://github.com/silvercrane011-sudo/Voice-Enabled-RAG-Model",
+  "skills": [
+    "rag"
+  ],
+  "topics": [],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "{\n  \"id\": 1342470701,\n  \"node_id\": \"R_kgDOUAR6LQ\",\n  \"name\": \"Voice-Enabled-RAG-Model\",\n  \"full_name\": \"silvercrane011-sudo/Voice-Enabled-RAG-Model\",\n  \"private\": false,\n  \"owner\": {\n    \"login\": \"silvercrane011-sudo\",\n    \"id\": 316683026,\n    \"node_id\": \"U_kgDOEuAzEg\",\n    \"avatar_url\": \"https://avatars.githubusercontent.com/u/316683026?v=4\",\n    \"gravatar_id\": \"\",\n    \"url\": \"https://api.github.com/users/silvercrane011-sudo\",\n    \"html_url\": \"https://github.com/silvercrane011-sudo\",\n    \"follo",
+  "search_query": "rag"
+}

@@ -1,0 +1,34 @@
+{
+  "raw_id": "github-repo-1319241498",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T13:15:07Z",
+  "title": "api-evangelist/runai",
+  "company": "api-evangelist",
+  "description": "NVIDIA Run:ai (formerly run.ai) is an AI operations and GPU orchestration platform for Kubernetes that pools, schedules, and governs GPU compute across clusters for training, fine-tuning, and inference workloads.",
+  "url": "https://github.com/api-evangelist/runai",
+  "skills": [
+    "fine-tuning",
+    "inference",
+    "kubernetes",
+    "mlops"
+  ],
+  "topics": [
+    "apis-json",
+    "artificial-intelligence",
+    "company",
+    "compute",
+    "gpu",
+    "infrastructure",
+    "kubernetes",
+    "machine-learning",
+    "mlops",
+    "orchestration",
+    "scheduling"
+  ],
+  "language": "",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "NVIDIA Run:ai (formerly run.ai) is an AI operations and GPU orchestration platform for Kubernetes that pools, schedules, and governs GPU compute across clusters for training, fine-tuning, and inference workloads.",
+  "search_query": "inference mlops"
+}

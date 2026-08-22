@@ -1,0 +1,19 @@
+{
+  "raw_id": "github-repo-1338242553",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:22Z",
+  "title": "Pratham-Bharade/ai-document-intelligence-rag-assistant",
+  "company": "Pratham-Bharade",
+  "description": "",
+  "url": "https://github.com/Pratham-Bharade/ai-document-intelligence-rag-assistant",
+  "skills": [
+    "rag"
+  ],
+  "topics": [],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "{\n  \"id\": 1338242553,\n  \"node_id\": \"R_kgDOT8P1-Q\",\n  \"name\": \"ai-document-intelligence-rag-assistant\",\n  \"full_name\": \"Pratham-Bharade/ai-document-intelligence-rag-assistant\",\n  \"private\": false,\n  \"owner\": {\n    \"login\": \"Pratham-Bharade\",\n    \"id\": 249926100,\n    \"node_id\": \"U_kgDODuWR1A\",\n    \"avatar_url\": \"https://avatars.githubusercontent.com/u/249926100?v=4\",\n    \"gravatar_id\": \"\",\n    \"url\": \"https://api.github.com/users/Pratham-Bharade\",\n    \"html_url\": \"https://github.com/Pratham-Bharad",
+  "search_query": "rag"
+}

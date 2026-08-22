@@ -1,0 +1,31 @@
+{
+  "raw_id": "github-repo-924058625",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T12:51:53Z",
+  "title": "vllm-project/vllm-ascend",
+  "company": "vllm-project",
+  "description": "Community maintained hardware plugin for vLLM on Ascend",
+  "url": "https://github.com/vllm-project/vllm-ascend",
+  "skills": [
+    "inference",
+    "llm",
+    "mlops"
+  ],
+  "topics": [
+    "ascend",
+    "inference",
+    "llm",
+    "llm-serving",
+    "llmops",
+    "mlops",
+    "model-serving",
+    "transformer",
+    "vllm"
+  ],
+  "language": "C++",
+  "stars": 2681,
+  "forks": 2093,
+  "raw_text_excerpt": "Community maintained hardware plugin for vLLM on Ascend",
+  "search_query": "inference mlops"
+}

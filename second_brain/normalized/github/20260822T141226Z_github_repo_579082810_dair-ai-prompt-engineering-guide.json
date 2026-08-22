@@ -1,0 +1,34 @@
+{
+  "raw_id": "github-repo-579082810",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:08:21Z",
+  "title": "dair-ai/Prompt-Engineering-Guide",
+  "company": "dair-ai",
+  "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+  "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+  "skills": [
+    "agents",
+    "llm",
+    "prompt engineering",
+    "rag"
+  ],
+  "topics": [
+    "agent",
+    "agents",
+    "ai-agents",
+    "chatgpt",
+    "deep-learning",
+    "generative-ai",
+    "language-model",
+    "llms",
+    "openai",
+    "prompt-engineering",
+    "rag"
+  ],
+  "language": "MDX",
+  "stars": 77685,
+  "forks": 8534,
+  "raw_text_excerpt": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+  "search_query": "rag"
+}

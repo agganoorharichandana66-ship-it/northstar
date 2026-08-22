@@ -23,8 +23,7 @@
     "score": 0.0,
     "provider": "tavily",
     "raw": {
-      "http_status": 404,
-      "body": ""
+      "error": "no TAVILY_API_KEY configured"
     }
   }
 }

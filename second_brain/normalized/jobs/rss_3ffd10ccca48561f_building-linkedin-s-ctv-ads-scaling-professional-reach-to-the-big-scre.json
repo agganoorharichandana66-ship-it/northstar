@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Fri, 03 Apr 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-3ffd10ccca48561f",
+  "raw_id": "rss-3ffd10ccca48561f",
+  "title": "Building LinkedIn’s CTV Ads: Scaling professional reach to the big screen",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/marketing/building-linkedins-ctv-ads",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "Building LinkedIn’s CTV Ads: Scaling professional reach to the big screen\nBuilding LinkedIn’s CTV Ads: Scaling professional reach to the big screen",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

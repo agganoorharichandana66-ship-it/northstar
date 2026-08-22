@@ -1,0 +1,26 @@
+{
+  "raw_id": "github-repo-1318345589",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:12Z",
+  "title": "dimitrispalamidas/call-agent",
+  "company": "dimitrispalamidas",
+  "description": "Multi-org AI call center: Twilio inbound, OpenAI Realtime voice agent, RAG knowledge base, human transfer. Next.js + Supabase monorepo.",
+  "url": "https://github.com/dimitrispalamidas/call-agent",
+  "skills": [
+    "rag"
+  ],
+  "topics": [
+    "ai",
+    "nextjs",
+    "openai",
+    "supabase",
+    "twilio",
+    "voice-agent"
+  ],
+  "language": "TypeScript",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Multi-org AI call center: Twilio inbound, OpenAI Realtime voice agent, RAG knowledge base, human transfer. Next.js + Supabase monorepo.",
+  "search_query": "rag"
+}

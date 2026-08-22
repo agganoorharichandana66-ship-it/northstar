@@ -1,0 +1,30 @@
+{
+  "raw_id": "github-repo-200722670",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:07:12Z",
+  "title": "NVIDIA-NeMo/Speech",
+  "company": "NVIDIA-NeMo",
+  "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+  "url": "https://github.com/NVIDIA-NeMo/Speech",
+  "skills": [
+    "generative ai"
+  ],
+  "topics": [
+    "asr",
+    "deeplearning",
+    "generative-ai",
+    "machine-translation",
+    "neural-networks",
+    "speaker-diariazation",
+    "speaker-recognition",
+    "speech-synthesis",
+    "speech-translation",
+    "tts"
+  ],
+  "language": "Python",
+  "stars": 18220,
+  "forks": 3569,
+  "raw_text_excerpt": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+  "search_query": "generative ai"
+}

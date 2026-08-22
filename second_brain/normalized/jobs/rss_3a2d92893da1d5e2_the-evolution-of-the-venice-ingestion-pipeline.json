@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Thu, 20 Nov 2025 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-3a2d92893da1d5e2",
+  "raw_id": "rss-3a2d92893da1d5e2",
+  "title": "The evolution of the Venice ingestion pipeline",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/infrastructure/evolution-of-the-venice-ingestion-pipeline",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "The evolution of the Venice ingestion pipeline\nThe evolution of the Venice ingestion pipeline",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

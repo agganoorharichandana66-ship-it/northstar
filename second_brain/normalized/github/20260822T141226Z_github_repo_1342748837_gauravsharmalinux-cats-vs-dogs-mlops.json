@@ -1,0 +1,40 @@
+{
+  "raw_id": "github-repo-1342748837",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:04:35Z",
+  "title": "GAURAVSHARMALINUX/cats-vs-dogs-mlops",
+  "company": "GAURAVSHARMALINUX",
+  "description": "End-to-end MLOps pipeline for Cats vs Dogs binary image classification: DVC-versioned data, MLflow experiment tracking, a FastAPI inference service, Docker packaging, and GitHub Actions CI/CD that deploys to an ephemeral kind cluster gated by a smoke test and a post-deployment accuracy check. MLOps (S1-25_AIMLCZG523) Assignment 2.",
+  "url": "https://github.com/GAURAVSHARMALINUX/cats-vs-dogs-mlops",
+  "skills": [
+    "docker",
+    "inference",
+    "kubernetes",
+    "mlops",
+    "tensorflow"
+  ],
+  "topics": [
+    "ci-cd",
+    "computer-vision",
+    "docker",
+    "dvc",
+    "fastapi",
+    "github-actions",
+    "grafana",
+    "image-classification",
+    "keras",
+    "kubernetes",
+    "machine-learning",
+    "mlflow",
+    "mlops",
+    "prometheus",
+    "pytest",
+    "tensorflow"
+  ],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "End-to-end MLOps pipeline for Cats vs Dogs binary image classification: DVC-versioned data, MLflow experiment tracking, a FastAPI inference service, Docker packaging, and GitHub Actions CI/CD that deploys to an ephemeral kind cluster gated by a smoke test and a post-deployment accuracy check. MLOps (S1-25_AIMLCZG523) Assignment 2.",
+  "search_query": "inference mlops"
+}

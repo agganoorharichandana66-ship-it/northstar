@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Thu, 28 May 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-05e65d4997d396ff",
+  "raw_id": "rss-05e65d4997d396ff",
+  "title": "Faster than Light: Optimizing Generative Recommender Training Efficiency at LinkedIn",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/infrastructure/faster-than-light-optimizing-generative-recommender-training-efficiency-at-linkedin",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "Faster than Light: Optimizing Generative Recommender Training Efficiency at LinkedIn\nFaster than Light: Optimizing Generative Recommender Training Efficiency at LinkedIn",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

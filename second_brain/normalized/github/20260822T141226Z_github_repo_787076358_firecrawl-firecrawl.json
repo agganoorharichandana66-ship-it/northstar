@@ -1,0 +1,40 @@
+{
+  "raw_id": "github-repo-787076358",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:08:48Z",
+  "title": "firecrawl/firecrawl",
+  "company": "firecrawl",
+  "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+  "url": "https://github.com/firecrawl/firecrawl",
+  "skills": [
+    "agents",
+    "llm"
+  ],
+  "topics": [
+    "ai",
+    "ai-agents",
+    "ai-crawler",
+    "ai-scraping",
+    "ai-search",
+    "crawler",
+    "data-extraction",
+    "html-to-markdown",
+    "llm",
+    "markdown",
+    "scraper",
+    "scraping",
+    "web-crawler",
+    "web-data",
+    "web-data-extraction",
+    "web-scraper",
+    "web-scraping",
+    "web-search",
+    "webscraping"
+  ],
+  "language": "TypeScript",
+  "stars": 170782,
+  "forks": 9490,
+  "raw_text_excerpt": "The context API to search, scrape, and interact with the web at scale. 🔥",
+  "search_query": "llm"
+}

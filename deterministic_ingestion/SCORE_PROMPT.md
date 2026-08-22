@@ -1,6 +1,6 @@
 % LLM Scoring Prompt (draft — edit by hand)
 
-Purpose: score a single incoming item (job or learning) against the user's North Star. Output must be JSON only.
+Purpose: score a single incoming item (job, GitHub repository, RSS post, or learning resource) against the user's North Star. Output must be JSON only.
 
 North Star (example to include when calling):
 "By April 2027, starting from my current role as Data Engineer, I will be working as a Generative AI Engineer at a company, verified by an employment start date and an official offer letter."
@@ -8,8 +8,8 @@ North Star (example to include when calling):
 Scoring scale: 0-100 (higher = better match to North Star).
 
 Scoring breakdown (return as `breakdown` object with percentages summing to ~100):
-- Alignment (40): How directly the item advances the North Star (job matches target role, learning item teaches skills clearly needed).
-- Impact on Goal (20): Likelihood the item moves you closer to being hired (for jobs: seniority, company profile; for learning: coverage depth and practical application).
+- Alignment (40): How directly the item advances the North Star (job matches target role, repository builds target capability, learning item teaches needed skills).
+- Impact on Goal (20): Likelihood the item moves you closer to being hired (for jobs: seniority and company profile; for repositories: practical portfolio signal and engineering depth; for learning: coverage depth and application).
 - Feasibility / Proximity (15): How achievable is this item given current role (time, seniority, required experience).
 - Skill Match (15): Presence and strength of target skills (LLMs, prompt engineering, inference, MLOps, etc.).
 - Urgency / Timing (10): Timeliness (job application window, trending technology relevance).
@@ -32,7 +32,7 @@ Required output format (JSON only):
 
 Inputs to include when calling the LLM (populate these fields):
 - `north_star`: the user's North Star text (one paragraph)
-- `item`: the normalized JSON for the item (fields: title, company, skills, responsibilities, url, date, source, raw_text_excerpt)
+- `item`: the normalized JSON for the item (fields vary by type; inspect `source` and `item_type`, then use title, description, skills, topics, responsibilities, URL, date, and evidence fields)
 
 Instructions for the model (to prepend when calling):
 1. Read `north_star` carefully. Use it as the single evaluation lens.
@@ -41,6 +41,12 @@ Instructions for the model (to prepend when calling):
 4. Set `confidence` based on how much explicit evidence the item contains (0.9 for clear matches with links/keywords, 0.5 for indirect, 0.2 for guesses).
 5. Provide a short `notes` justification focused on the North Star.
 6. Output JSON only. No commentary outside JSON.
+
+Source-type guidance:
+7. For a job, prioritize role fit and explicit requirements.
+8. For a GitHub repository, prioritize practical GenAI implementation, code quality signals, adoption, recency, and relevance to the target role; stars alone are not proof of quality.
+9. For learning content, prioritize hands-on depth, project applicability, and skill gaps it closes.
+10. For RSS or social-derived content, treat it as a lead or learning signal, not verified employment evidence.
 
 Example (job):
 Input: north_star = "...Generative AI Engineer..."

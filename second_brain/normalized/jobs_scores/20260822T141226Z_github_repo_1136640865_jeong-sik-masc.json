@@ -1,0 +1,12 @@
+{
+  "score": 25,
+  "breakdown": {
+    "alignment": 35,
+    "impact": 20,
+    "feasibility": 25,
+    "skill_match": 15,
+    "urgency": 5
+  },
+  "confidence": 0.5,
+  "notes": "Hobby OCaml repo with agents and LLM, limited portfolio impact for GenAI Engineer role."
+}

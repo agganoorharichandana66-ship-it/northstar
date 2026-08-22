@@ -1,0 +1,20 @@
+{
+  "raw_id": "github-repo-1328816590",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:08:50Z",
+  "title": "eariver/japanese-generative-ai-survey",
+  "company": "eariver",
+  "description": "Evidence-first Japanese weekly technical survey for generative AI, built with LLMs, LaTeX, and reproducible source tracking.",
+  "url": "https://github.com/eariver/japanese-generative-ai-survey",
+  "skills": [
+    "generative ai",
+    "llm"
+  ],
+  "topics": [],
+  "language": "HTML",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Evidence-first Japanese weekly technical survey for generative AI, built with LLMs, LaTeX, and reproducible source tracking.",
+  "search_query": "generative ai"
+}

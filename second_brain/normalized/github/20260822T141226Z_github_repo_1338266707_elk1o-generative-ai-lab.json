@@ -1,0 +1,23 @@
+{
+  "raw_id": "github-repo-1338266707",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:04:14Z",
+  "title": "elk1o/generative-ai-lab",
+  "company": "elk1o",
+  "description": "Python playground for LLM development: direct API integration with OpenAI and Gemini, LangChain fundamentals (chains, structured output, memory), RAG pipeline with ChromaDB, and AI agents with tool calling.",
+  "url": "https://github.com/elk1o/generative-ai-lab",
+  "skills": [
+    "agents",
+    "langchain",
+    "llm",
+    "python",
+    "rag"
+  ],
+  "topics": [],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Python playground for LLM development: direct API integration with OpenAI and Gemini, LangChain fundamentals (chains, structured output, memory), RAG pipeline with ChromaDB, and AI agents with tool calling.",
+  "search_query": "generative ai"
+}

@@ -15,7 +15,9 @@ from datetime import datetime, timezone
 from verify_identity import verify_profile
 
 BASE = os.path.dirname(__file__)
-CONFIG_PATH = os.path.join(BASE, 'config.example.json')
+CONFIG_PATH = os.path.join(BASE, 'config.json')
+if not os.path.exists(CONFIG_PATH):
+    CONFIG_PATH = os.path.join(BASE, 'config.example.json')
 with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
     cfg = json.load(f)
 
@@ -157,7 +159,7 @@ def base_record(meta: dict, body: str, email_type: str) -> dict:
     }
 
 
-def maybe_verify(url: str) -> dict:
+def maybe_verify(url: str, job: dict | None = None) -> dict:
     target = clean_url(url)
     if not target.startswith('http'):
         return {
@@ -167,7 +169,14 @@ def maybe_verify(url: str) -> dict:
             'raw': {'skipped': True, 'reason': 'no job url to verify'},
         }
     try:
-        return verify_profile(target)
+        context = ''
+        if job:
+            context = ' '.join(
+                str(job.get(field, '')).strip()
+                for field in ('title', 'company', 'location')
+                if job.get(field)
+            )
+        return verify_profile(target, context=context)
     except Exception as e:
         return {
             'verified': False,
@@ -206,7 +215,7 @@ def job_record(meta: dict, body: str, email_type: str, job: dict, idx: int | Non
         'raw_text_excerpt': excerpt_for(combined_text),
         'alert_query': job.get('alert_query', ''),
     }
-    record['verification'] = maybe_verify(record['url'])
+    record['verification'] = maybe_verify(record['url'], record)
     return record
 
 

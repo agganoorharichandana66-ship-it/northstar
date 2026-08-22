@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Wed, 03 Dec 2025 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-63b39aaf7842de57",
+  "raw_id": "rss-63b39aaf7842de57",
+  "title": "Scalable, Multi-language Service Discovery at LinkedIn",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/infrastructure/scalable-multi-language-service-discovery-at-linkedin",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "Scalable, Multi-language Service Discovery at LinkedIn\nScalable, Multi-language Service Discovery at LinkedIn",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

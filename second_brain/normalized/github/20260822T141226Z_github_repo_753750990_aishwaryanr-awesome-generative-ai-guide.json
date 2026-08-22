@@ -1,0 +1,29 @@
+{
+  "raw_id": "github-repo-753750990",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T05:44:42Z",
+  "title": "aishwaryanr/awesome-generative-ai-guide",
+  "company": "aishwaryanr",
+  "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+  "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+  "skills": [
+    "generative ai",
+    "llm"
+  ],
+  "topics": [
+    "awesome",
+    "awesome-list",
+    "generative-ai",
+    "interview-questions",
+    "large-language-models",
+    "llms",
+    "notebook-jupyter",
+    "vision-and-language"
+  ],
+  "language": "HTML",
+  "stars": 28848,
+  "forks": 5877,
+  "raw_text_excerpt": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+  "search_query": "generative ai"
+}

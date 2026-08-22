@@ -1,0 +1,12 @@
+{
+  "score": 13,
+  "breakdown": {
+    "alignment": 10,
+    "impact": 5,
+    "feasibility": 50,
+    "skill_match": 0,
+    "urgency": 0
+  },
+  "confidence": 0.2,
+  "notes": "Repository contains no evidence of generative AI work or relevant skills; minimal relevance to the North Star."
+}

@@ -1,0 +1,12 @@
+```json
+{
+  "score": 73,
+  "breakdown": {
+    "alignment": 70,
+    "impact": 60,
+    "feasibility": 80,
+    "skill_match": 90,
+    "urgency": 70
+  },
+  "confidence": 0.85,
+  "notes": "Repository demonstrates multiple generative AI projects with relevant

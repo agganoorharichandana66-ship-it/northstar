@@ -1,0 +1,12 @@
+{
+  "score": 18,
+  "breakdown": {
+    "alignment": 10,
+    "impact": 5,
+    "feasibility": 70,
+    "skill_match": 15,
+    "urgency": 5
+  },
+  "confidence": 0.5,
+  "notes": "Repository is a daily log with minimal code; limited relevance to Generative AI Engineer role."
+}

@@ -1,0 +1,12 @@
+```json
+{
+  "score": 37,
+  "breakdown": {
+    "alignment": 30,
+    "impact": 20,
+    "feasibility": 90,
+    "skill_match": 40,
+    "urgency": 10
+  },
+  "confidence": 0.5,
+  "notes": "Repository demonstrates LLM knowledge but offers limited direct impact

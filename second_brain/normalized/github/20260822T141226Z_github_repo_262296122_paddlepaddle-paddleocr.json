@@ -1,0 +1,34 @@
+{
+  "raw_id": "github-repo-262296122",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:04:36Z",
+  "title": "PaddlePaddle/PaddleOCR",
+  "company": "PaddlePaddle",
+  "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+  "url": "https://github.com/PaddlePaddle/PaddleOCR",
+  "skills": [
+    "llm",
+    "rag"
+  ],
+  "topics": [
+    "ai4science",
+    "chineseocr",
+    "document-parsing",
+    "document-translation",
+    "kie",
+    "ocr",
+    "paddleocr-vl",
+    "pdf-extractor-rag",
+    "pdf-parser",
+    "pdf2markdown",
+    "pp-ocr",
+    "pp-structure",
+    "rag"
+  ],
+  "language": "Python",
+  "stars": 88102,
+  "forks": 11219,
+  "raw_text_excerpt": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+  "search_query": "rag"
+}

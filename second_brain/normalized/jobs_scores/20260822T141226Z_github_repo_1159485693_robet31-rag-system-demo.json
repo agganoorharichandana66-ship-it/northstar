@@ -1,0 +1,12 @@
+{
+  "score": 30,
+  "breakdown": {
+    "alignment": 30,
+    "impact": 10,
+    "feasibility": 80,
+    "skill_match": 20,
+    "urgency": 10
+  },
+  "confidence": 0.3,
+  "notes": "Demo repo shows basic RAG but lacks depth for a Generative AI Engineer role."
+}

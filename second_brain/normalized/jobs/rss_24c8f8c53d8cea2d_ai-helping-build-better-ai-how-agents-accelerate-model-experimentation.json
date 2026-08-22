@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Fri, 27 Mar 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-24c8f8c53d8cea2d",
+  "raw_id": "rss-24c8f8c53d8cea2d",
+  "title": "AI Helping Build Better AI: How Agents Accelerate Model Experimentation",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/ai/ai-helping-build-better-ai-how-agents-accelerate-model-experimentation",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "AI Helping Build Better AI: How Agents Accelerate Model Experimentation\nAI Helping Build Better AI: How Agents Accelerate Model Experimentation",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

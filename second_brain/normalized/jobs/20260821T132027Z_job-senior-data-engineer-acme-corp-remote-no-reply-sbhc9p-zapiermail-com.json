@@ -25,7 +25,6 @@
     "design etl",
     "manage streaming",
     "mentor",
-    "responsibilit",
     "design ETL, manage streaming, mentor junior engineers. Apply: https://www.linkedin.com/jobs/view/123456"
   ],
   "raw_text_excerpt": "Senior Data Engineer\nAcme Corp\nRemote\ntitle: \"Senior Data Engineer\"\n\ncompany: \"Acme Corp\"\n\nlocation: \"Remote\"\n\nurl: \"https://www.linkedin.com/jobs/view/123456\"\n\ndate_posted: \"2026-08-20\"\n\nsource: \"Lin",
@@ -34,8 +33,7 @@
     "score": 0.0,
     "provider": "tavily",
     "raw": {
-      "http_status": 404,
-      "body": ""
+      "error": "no TAVILY_API_KEY configured"
     }
   }
 }

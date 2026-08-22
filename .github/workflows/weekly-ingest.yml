@@ -23,6 +23,7 @@ jobs:
       - name: Run GitHub ingest
         env:
           GITHUB_TOKEN: ${{ secrets.secondbrain }}
+          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
         run: python deterministic_ingestion/ingest_github.py
 
       - name: Run RSS ingest
@@ -45,6 +46,9 @@ jobs:
 
       - name: Normalize jobs
         run: python deterministic_ingestion/normalize_job.py
+
+      - name: Normalize GitHub and LMS sources
+        run: python deterministic_ingestion/normalize_sources.py
 
       - name: Score normalized jobs with GROQ
         env:

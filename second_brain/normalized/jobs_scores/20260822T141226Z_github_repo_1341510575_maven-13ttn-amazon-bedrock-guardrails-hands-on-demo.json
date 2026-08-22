@@ -1,0 +1,12 @@
+{
+  "score": 35,
+  "breakdown": {
+    "alignment": 30,
+    "impact": 20,
+    "feasibility": 80,
+    "skill_match": 40,
+    "urgency": 10
+  },
+  "confidence": 0.5,
+  "notes": "Demo repo demonstrates basic GenAI guardrails knowledge but lacks depth for a strong portfolio signal."
+}

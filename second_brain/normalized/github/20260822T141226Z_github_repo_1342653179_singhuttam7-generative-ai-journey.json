@@ -1,0 +1,26 @@
+{
+  "raw_id": "github-repo-1342653179",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:09:04Z",
+  "title": "singhuttam7/Generative_AI_Journey",
+  "company": "singhuttam7",
+  "description": "A hands-on learning repository documenting my journey into Generative AI, covering transformers, LLMs, embeddings, Hugging Face, RAG, vector databases, fine-tuning, AI agents, and real-world GenAI projects.",
+  "url": "https://github.com/singhuttam7/Generative_AI_Journey",
+  "skills": [
+    "agents",
+    "fine-tuning",
+    "generative ai",
+    "hugging face",
+    "llm",
+    "rag",
+    "transformers",
+    "vector database"
+  ],
+  "topics": [],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "A hands-on learning repository documenting my journey into Generative AI, covering transformers, LLMs, embeddings, Hugging Face, RAG, vector databases, fine-tuning, AI agents, and real-world GenAI projects.",
+  "search_query": "generative ai"
+}

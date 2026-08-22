@@ -1,0 +1,30 @@
+{
+  "raw_id": "github-repo-1136590548",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:11:41Z",
+  "title": "affaan-m/ECC",
+  "company": "affaan-m",
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "url": "https://github.com/affaan-m/ECC",
+  "skills": [
+    "agents",
+    "llm",
+    "mcp"
+  ],
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "productivity"
+  ],
+  "language": "JavaScript",
+  "stars": 242010,
+  "forks": 36680,
+  "raw_text_excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "search_query": "llm"
+}

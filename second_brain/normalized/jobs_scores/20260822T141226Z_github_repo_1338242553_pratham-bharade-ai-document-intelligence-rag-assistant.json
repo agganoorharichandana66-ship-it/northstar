@@ -1,0 +1,12 @@
+{
+  "score": 39,
+  "breakdown": {
+    "alignment": 35,
+    "impact": 25,
+    "feasibility": 80,
+    "skill_match": 45,
+    "urgency": 15
+  },
+  "confidence": 0.5,
+  "notes": "Repo shows RAG capability but limited depth for a Generative AI Engineer role; moderate alignment, low impact."
+}

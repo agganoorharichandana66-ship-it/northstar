@@ -1,0 +1,28 @@
+{
+  "raw_id": "github-repo-1136640865",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:06Z",
+  "title": "jeong-sik/masc",
+  "company": "jeong-sik",
+  "description": "MASC - Multi-Agent Streaming Coordination in OCaml",
+  "url": "https://github.com/jeong-sik/masc",
+  "skills": [
+    "agents",
+    "llm"
+  ],
+  "topics": [
+    "agents",
+    "ai",
+    "gag",
+    "harness",
+    "hobby-project",
+    "llm",
+    "ocaml"
+  ],
+  "language": "OCaml",
+  "stars": 13,
+  "forks": 3,
+  "raw_text_excerpt": "MASC - Multi-Agent Streaming Coordination in OCaml",
+  "search_query": "llm"
+}

@@ -1,0 +1,28 @@
+{
+  "source": "rss",
+  "date": "Fri, 20 Feb 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-0bd39e3c29f8d325",
+  "raw_id": "rss-0bd39e3c29f8d325",
+  "title": "Scaling LLM-Based ranking systems with SGLang at LinkedIn",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/ai/scaling-llm-based-ranking-systems-with-sglang-at-linkedin",
+  "date_posted": "",
+  "tags": [],
+  "skills": [
+    "llm"
+  ],
+  "responsibilities": [],
+  "raw_text_excerpt": "Scaling LLM-Based ranking systems with SGLang at LinkedIn\nScaling LLM-Based ranking systems with SGLang at LinkedIn",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

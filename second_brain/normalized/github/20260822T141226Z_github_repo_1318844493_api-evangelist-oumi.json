@@ -1,0 +1,36 @@
+{
+  "raw_id": "github-repo-1318844493",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T13:05:17Z",
+  "title": "api-evangelist/oumi",
+  "company": "api-evangelist",
+  "description": "Oumi (Open Universal Machine Intelligence) is an open-source, Apache-2.0 platform for ML engineers and researchers to train, fine-tune, evaluate, and deploy foundation models (LLMs and VLMs) through a single unified interface.",
+  "url": "https://github.com/api-evangelist/oumi",
+  "skills": [
+    "fine-tuning",
+    "inference",
+    "llm",
+    "mlops"
+  ],
+  "topics": [
+    "apis-json",
+    "artificial-intelligence",
+    "company",
+    "developer-tools",
+    "economic-health",
+    "fine-tuning",
+    "foundation-models",
+    "inference",
+    "llm",
+    "machine-learning",
+    "mlops",
+    "model-training",
+    "open-source"
+  ],
+  "language": "",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Oumi (Open Universal Machine Intelligence) is an open-source, Apache-2.0 platform for ML engineers and researchers to train, fine-tune, evaluate, and deploy foundation models (LLMs and VLMs) through a single unified interface.",
+  "search_query": "inference mlops"
+}

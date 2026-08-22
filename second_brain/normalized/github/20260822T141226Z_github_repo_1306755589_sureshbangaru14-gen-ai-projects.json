@@ -1,0 +1,25 @@
+{
+  "raw_id": "github-repo-1306755589",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:03:36Z",
+  "title": "SureshBangaru14/Gen_AI_projects",
+  "company": "SureshBangaru14",
+  "description": "A comprehensive Generative AI project collection focused on building intelligent AI applications using LLMs, RAG, prompt engineering, embeddings, vector databases, LangChain, and modern AI frameworks. Includes scalable implementations, interactive AI solutions, and real-world workflows using Python and production-ready practices.",
+  "url": "https://github.com/SureshBangaru14/Gen_AI_projects",
+  "skills": [
+    "generative ai",
+    "langchain",
+    "llm",
+    "prompt engineering",
+    "python",
+    "rag",
+    "vector database"
+  ],
+  "topics": [],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "A comprehensive Generative AI project collection focused on building intelligent AI applications using LLMs, RAG, prompt engineering, embeddings, vector databases, LangChain, and modern AI frameworks. Includes scalable implementations, interactive AI solutions, and real-world workflows using Python and production-ready practices.",
+  "search_query": "generative ai"
+}

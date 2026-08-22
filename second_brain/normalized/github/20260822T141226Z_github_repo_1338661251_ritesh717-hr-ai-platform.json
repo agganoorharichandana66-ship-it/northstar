@@ -1,0 +1,21 @@
+{
+  "raw_id": "github-repo-1338661251",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:19Z",
+  "title": "Ritesh717/hr-ai-platform",
+  "company": "Ritesh717",
+  "description": "Production-grade HR AI Agent Platform — a learning path for building AI agents (tool-calling, RAG, workflows, multi-agent) inside a real Python/FastAPI application",
+  "url": "https://github.com/Ritesh717/hr-ai-platform",
+  "skills": [
+    "agents",
+    "python",
+    "rag"
+  ],
+  "topics": [],
+  "language": "TypeScript",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Production-grade HR AI Agent Platform — a learning path for building AI agents (tool-calling, RAG, workflows, multi-agent) inside a real Python/FastAPI application",
+  "search_query": "rag"
+}

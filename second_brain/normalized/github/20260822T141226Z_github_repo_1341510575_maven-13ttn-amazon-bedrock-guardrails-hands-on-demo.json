@@ -1,0 +1,19 @@
+{
+  "raw_id": "github-repo-1341510575",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:04:57Z",
+  "title": "MaVeN-13TTN/amazon-bedrock-guardrails-hands-on-demo",
+  "company": "MaVeN-13TTN",
+  "description": "Building Secure and Responsible Generative AI applications with Amazon Bedrock Guardrails",
+  "url": "https://github.com/MaVeN-13TTN/amazon-bedrock-guardrails-hands-on-demo",
+  "skills": [
+    "generative ai"
+  ],
+  "topics": [],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Building Secure and Responsible Generative AI applications with Amazon Bedrock Guardrails",
+  "search_query": "generative ai"
+}

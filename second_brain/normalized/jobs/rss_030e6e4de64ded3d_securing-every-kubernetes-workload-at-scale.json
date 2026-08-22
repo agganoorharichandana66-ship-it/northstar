@@ -1,0 +1,28 @@
+{
+  "source": "rss",
+  "date": "Thu, 26 Feb 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-030e6e4de64ded3d",
+  "raw_id": "rss-030e6e4de64ded3d",
+  "title": "Securing every Kubernetes workload at scale",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/infrastructure/securing-every-kubernetes-workload-at-scale",
+  "date_posted": "",
+  "tags": [],
+  "skills": [
+    "kubernetes"
+  ],
+  "responsibilities": [],
+  "raw_text_excerpt": "Securing every Kubernetes workload at scale\nSecuring every Kubernetes workload at scale",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

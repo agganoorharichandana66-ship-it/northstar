@@ -1,0 +1,12 @@
+{
+  "score": 37,
+  "breakdown": {
+    "alignment": 30,
+    "impact": 20,
+    "feasibility": 80,
+    "skill_match": 50,
+    "urgency": 10
+  },
+  "confidence": 0.5,
+  "notes": "Repo shows basic RAG implementation; limited depth and production relevance to Generative AI Engineer role."
+}

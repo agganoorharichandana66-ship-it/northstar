@@ -1,0 +1,33 @@
+{
+  "raw_id": "github-repo-614765452",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:09:48Z",
+  "title": "Significant-Gravitas/AutoGPT",
+  "company": "Significant-Gravitas",
+  "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "url": "https://github.com/Significant-Gravitas/AutoGPT",
+  "skills": [
+    "agents",
+    "llm",
+    "python"
+  ],
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "claude",
+    "gpt",
+    "llama-api",
+    "llm",
+    "openai",
+    "python"
+  ],
+  "language": "Python",
+  "stars": 186756,
+  "forks": 46049,
+  "raw_text_excerpt": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "search_query": "llm"
+}

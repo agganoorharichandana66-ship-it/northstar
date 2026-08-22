@@ -1,0 +1,20 @@
+{
+  "raw_id": "github-repo-1342873351",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:08Z",
+  "title": "Harisudhan4127/multilingual-voice-rag",
+  "company": "Harisudhan4127",
+  "description": "Voice-enabled multilingual RAG system for HH Goa 2026 — combining speech-to-text, hybrid BM25 + vector retrieval, reranking, grounded LLM generation, guardrails, and real-time latency benchmarking.",
+  "url": "https://github.com/Harisudhan4127/multilingual-voice-rag",
+  "skills": [
+    "llm",
+    "rag"
+  ],
+  "topics": [],
+  "language": "",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Voice-enabled multilingual RAG system for HH Goa 2026 — combining speech-to-text, hybrid BM25 + vector retrieval, reranking, grounded LLM generation, guardrails, and real-time latency benchmarking.",
+  "search_query": "llm"
+}

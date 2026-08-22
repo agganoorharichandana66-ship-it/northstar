@@ -1,0 +1,36 @@
+{
+  "raw_id": "github-repo-1319386958",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T13:19:51Z",
+  "title": "api-evangelist/simplismart",
+  "company": "api-evangelist",
+  "description": "Simplismart is an AI inference and model-deployment platform that lets teams run, fine-tune, and self-host generative AI models on optimized GPU infrastructure. It offers OpenAI-compatible LLM chat inference (Llama, Qwen, Gemma, Mixtral, DeepSeek), Whisper speech-to-text transcription, and Flux image generation as shared or dedicated endpoints…",
+  "url": "https://github.com/api-evangelist/simplismart",
+  "skills": [
+    "fine-tuning",
+    "generative ai",
+    "inference",
+    "llm",
+    "mlops"
+  ],
+  "topics": [
+    "apis-json",
+    "artificial-intelligence",
+    "company",
+    "fine-tuning",
+    "gpu",
+    "image-generation",
+    "inference",
+    "llm",
+    "machine-learning",
+    "mlops",
+    "model-deployment",
+    "speech-to-text"
+  ],
+  "language": "",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Simplismart is an AI inference and model-deployment platform that lets teams run, fine-tune, and self-host generative AI models on optimized GPU infrastructure. It offers OpenAI-compatible LLM chat inference (Llama, Qwen, Gemma, Mixtral, DeepSeek), Whisper speech-to-text transcription, and Flux image generation as shared or dedicated endpoints…",
+  "search_query": "inference mlops"
+}

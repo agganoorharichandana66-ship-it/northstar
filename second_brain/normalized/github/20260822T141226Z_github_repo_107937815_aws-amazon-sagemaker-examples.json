@@ -1,0 +1,33 @@
+{
+  "raw_id": "github-repo-107937815",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-20T03:24:40Z",
+  "title": "aws/amazon-sagemaker-examples",
+  "company": "aws",
+  "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. ",
+  "url": "https://github.com/aws/amazon-sagemaker-examples",
+  "skills": [
+    "inference",
+    "machine learning",
+    "mlops"
+  ],
+  "topics": [
+    "aws",
+    "data-science",
+    "deep-learning",
+    "examples",
+    "inference",
+    "jupyter-notebook",
+    "machine-learning",
+    "mlops",
+    "reinforcement-learning",
+    "sagemaker",
+    "training"
+  ],
+  "language": "Jupyter Notebook",
+  "stars": 10979,
+  "forks": 6961,
+  "raw_text_excerpt": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. ",
+  "search_query": "inference mlops"
+}

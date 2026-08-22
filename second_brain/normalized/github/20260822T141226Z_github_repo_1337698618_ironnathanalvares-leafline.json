@@ -1,0 +1,36 @@
+{
+  "raw_id": "github-repo-1337698618",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T13:58:48Z",
+  "title": "IronNathanAlvares/leafline",
+  "company": "IronNathanAlvares",
+  "description": "A crop-disease inference service on Kubernetes: a three-tier inference ladder, GPU scheduling, KEDA autoscaling on queue depth rather than CPU, and warm headroom for a cold start you cannot scale away. M1 of 6 is built and CI-verified; the rest is designed.",
+  "url": "https://github.com/IronNathanAlvares/leafline",
+  "skills": [
+    "inference",
+    "kubernetes",
+    "mlops"
+  ],
+  "topics": [
+    "autoscaling",
+    "dynamic-resource-allocation",
+    "gateway-api",
+    "gpu-scheduling",
+    "inference",
+    "keda",
+    "kind",
+    "kubernetes",
+    "mlops",
+    "model-serving",
+    "onnx",
+    "platform-engineering",
+    "prometheus",
+    "sre"
+  ],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "A crop-disease inference service on Kubernetes: a three-tier inference ladder, GPU scheduling, KEDA autoscaling on queue depth rather than CPU, and warm headroom for a cold start you cannot scale away. M1 of 6 is built and CI-verified; the rest is designed.",
+  "search_query": "inference mlops"
+}

@@ -1,0 +1,19 @@
+{
+  "raw_id": "github-repo-1208044658",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T12:57:25Z",
+  "title": "tbocek/codehalter",
+  "company": "tbocek",
+  "description": "ACP-compatible AI coding agent connecting your IDE to any OpenAI-compatible LLM server",
+  "url": "https://github.com/tbocek/codehalter",
+  "skills": [
+    "llm"
+  ],
+  "topics": [],
+  "language": "Go",
+  "stars": 2,
+  "forks": 0,
+  "raw_text_excerpt": "ACP-compatible AI coding agent connecting your IDE to any OpenAI-compatible LLM server",
+  "search_query": "llm"
+}

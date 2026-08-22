@@ -1,0 +1,24 @@
+{
+  "raw_id": "github-repo-631081758",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-21T13:01:50Z",
+  "title": "Stability-AI/StableStudio",
+  "company": "Stability-AI",
+  "description": "Community interface for generative AI",
+  "url": "https://github.com/Stability-AI/StableStudio",
+  "skills": [
+    "generative ai"
+  ],
+  "topics": [
+    "frontend",
+    "ml",
+    "stability-ai",
+    "stable-diffusion"
+  ],
+  "language": "TypeScript",
+  "stars": 9047,
+  "forks": 916,
+  "raw_text_excerpt": "Community interface for generative AI",
+  "search_query": "generative ai"
+}

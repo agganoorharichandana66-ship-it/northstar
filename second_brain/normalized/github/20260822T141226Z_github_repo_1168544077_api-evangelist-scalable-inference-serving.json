@@ -1,0 +1,36 @@
+{
+  "raw_id": "github-repo-1168544077",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T13:16:46Z",
+  "title": "api-evangelist/scalable-inference-serving",
+  "company": "api-evangelist",
+  "description": "A collection of APIs, frameworks, and platforms for scalable machine learning model inference serving, deployment, and management. This includes the KServe Open Inference Protocol (the CNCF standard for model serving on Kubernetes), BentoML (developer packaging and serving), vLLM (high-throughput LLM inference), NVIDIA Triton Inference Server, and…",
+  "url": "https://github.com/api-evangelist/scalable-inference-serving",
+  "skills": [
+    "inference",
+    "kubernetes",
+    "llm",
+    "machine learning",
+    "mlops",
+    "model serving"
+  ],
+  "topics": [
+    "ai",
+    "apis-json",
+    "cncf",
+    "deployment",
+    "inference",
+    "kubernetes",
+    "llm",
+    "machine-learning",
+    "mlops",
+    "model-serving",
+    "scalability"
+  ],
+  "language": "",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "A collection of APIs, frameworks, and platforms for scalable machine learning model inference serving, deployment, and management. This includes the KServe Open Inference Protocol (the CNCF standard for model serving on Kubernetes), BentoML (developer packaging and serving), vLLM (high-throughput LLM inference), NVIDIA Triton Inference Server, and…",
+  "search_query": "inference mlops"
+}

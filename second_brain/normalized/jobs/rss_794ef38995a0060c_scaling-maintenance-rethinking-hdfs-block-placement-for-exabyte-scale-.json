@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Thu, 22 Jan 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-794ef38995a0060c",
+  "raw_id": "rss-794ef38995a0060c",
+  "title": "Scaling maintenance: Rethinking HDFS block placement for exabyte-scale clusters",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/infrastructure/rethinking-hfds-block-placement-for-exabyte-scale-clusters",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "Scaling maintenance: Rethinking HDFS block placement for exabyte-scale clusters\nScaling maintenance: Rethinking HDFS block placement for exabyte-scale clusters",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

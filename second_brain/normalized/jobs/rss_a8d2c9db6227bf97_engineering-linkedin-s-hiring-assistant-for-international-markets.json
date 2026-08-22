@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Mon, 08 Jun 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-a8d2c9db6227bf97",
+  "raw_id": "rss-a8d2c9db6227bf97",
+  "title": "Engineering LinkedIn's Hiring Assistant for International Markets",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/ai/engineering-linkedins-hiring-assistant-for-international-markets",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "Engineering LinkedIn's Hiring Assistant for International Markets\nEngineering LinkedIn's Hiring Assistant for International Markets",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

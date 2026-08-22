@@ -1,0 +1,42 @@
+{
+  "raw_id": "github-repo-292374787",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T07:08:14Z",
+  "title": "stas00/ml-engineering",
+  "company": "stas00",
+  "description": "Machine Learning Engineering Open Book",
+  "url": "https://github.com/stas00/ml-engineering",
+  "skills": [
+    "inference",
+    "llm",
+    "machine learning",
+    "mlops",
+    "pytorch",
+    "rag",
+    "transformers"
+  ],
+  "topics": [
+    "ai",
+    "debugging",
+    "gpus",
+    "inference",
+    "large-language-models",
+    "llm",
+    "machine-learning",
+    "machine-learning-engineering",
+    "mlops",
+    "network",
+    "pytorch",
+    "scalability",
+    "slurm",
+    "storage",
+    "training",
+    "transformers"
+  ],
+  "language": "Python",
+  "stars": 18685,
+  "forks": 1204,
+  "raw_text_excerpt": "Machine Learning Engineering Open Book",
+  "search_query": "inference mlops"
+}

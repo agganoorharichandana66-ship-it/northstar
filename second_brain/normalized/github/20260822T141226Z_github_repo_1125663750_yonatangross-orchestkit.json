@@ -1,0 +1,41 @@
+{
+  "raw_id": "github-repo-1125663750",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:00Z",
+  "title": "yonatangross/orchestkit",
+  "company": "yonatangross",
+  "description": "The Complete AI Development Toolkit for Claude Code — 105 skills, 36 agents, 217 hooks. Production-ready patterns for full-stack development.",
+  "url": "https://github.com/yonatangross/orchestkit",
+  "skills": [
+    "agents",
+    "llm",
+    "mcp",
+    "rag"
+  ],
+  "topics": [
+    "agent-orchestration",
+    "agents",
+    "ai-agents",
+    "ai-development",
+    "anthropic",
+    "claude-code",
+    "claude-code-plugin",
+    "claude-plugin",
+    "developer-tools",
+    "fastapi",
+    "langgraph",
+    "llm",
+    "mcp",
+    "rag",
+    "react",
+    "security",
+    "testing",
+    "typescript"
+  ],
+  "language": "TypeScript",
+  "stars": 223,
+  "forks": 22,
+  "raw_text_excerpt": "The Complete AI Development Toolkit for Claude Code — 105 skills, 36 agents, 217 hooks. Production-ready patterns for full-stack development.",
+  "search_query": "rag"
+}

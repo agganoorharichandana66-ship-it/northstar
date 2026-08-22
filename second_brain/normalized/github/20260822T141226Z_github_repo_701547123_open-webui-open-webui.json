@@ -1,0 +1,37 @@
+{
+  "raw_id": "github-repo-701547123",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:04:13Z",
+  "title": "open-webui/open-webui",
+  "company": "open-webui",
+  "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+  "url": "https://github.com/open-webui/open-webui",
+  "skills": [
+    "llm",
+    "mcp",
+    "rag"
+  ],
+  "topics": [
+    "ai",
+    "llm",
+    "llm-ui",
+    "llm-webui",
+    "llms",
+    "mcp",
+    "ollama",
+    "ollama-webui",
+    "open-webui",
+    "openai",
+    "openapi",
+    "rag",
+    "self-hosted",
+    "ui",
+    "webui"
+  ],
+  "language": "Python",
+  "stars": 149568,
+  "forks": 21814,
+  "raw_text_excerpt": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+  "search_query": "llm"
+}

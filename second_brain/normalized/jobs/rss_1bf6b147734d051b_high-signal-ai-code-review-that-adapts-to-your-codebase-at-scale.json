@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Thu, 13 Aug 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-1bf6b147734d051b",
+  "raw_id": "rss-1bf6b147734d051b",
+  "title": "High-Signal AI Code Review That Adapts to Your Codebase at Scale",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/ai/high-signal-ai-code-review-that-adapts-to-your-codebase-at-scale",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "High-Signal AI Code Review That Adapts to Your Codebase at Scale\nHigh-Signal AI Code Review That Adapts to Your Codebase at Scale",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

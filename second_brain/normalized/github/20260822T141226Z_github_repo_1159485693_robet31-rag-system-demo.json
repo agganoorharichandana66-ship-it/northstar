@@ -1,0 +1,19 @@
+{
+  "raw_id": "github-repo-1159485693",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:11:43Z",
+  "title": "robet31/rag-system-demo",
+  "company": "robet31",
+  "description": "A simple RAG (Retrieval-Augmented Generation) system demo using Next.js, Shadcn/ui, Framer Motion, and OpenRouter API",
+  "url": "https://github.com/robet31/rag-system-demo",
+  "skills": [
+    "rag"
+  ],
+  "topics": [],
+  "language": "TypeScript",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "A simple RAG (Retrieval-Augmented Generation) system demo using Next.js, Shadcn/ui, Framer Motion, and OpenRouter API",
+  "search_query": "rag"
+}

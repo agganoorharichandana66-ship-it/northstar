@@ -4,14 +4,15 @@
 Usage:
  - Without an API key the script prints the assembled prompt for manual use.
  - With GROQ_API_KEY set, it will attempt a call and save scores to
-   second_brain/normalized/jobs_scores/*.json
+     second_brain/normalized/jobs_scores/*.json
 """
 import os, json, re, textwrap, time
 from glob import glob
 from pathlib import Path
 
 BASE = Path(__file__).parent
-NORM_DIR = BASE.parent / 'second_brain' / 'normalized' / 'jobs'
+NORM_ROOT = BASE.parent / 'second_brain' / 'normalized'
+NORM_DIRS = [NORM_ROOT / name for name in ('jobs', 'github', 'learning')]
 OUT_DIR = BASE.parent / 'second_brain' / 'normalized' / 'jobs_scores'
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -49,29 +50,30 @@ def retrieve_local_context(item: dict, max_chars: int = 4000):
         keywords += [s.lower()]
 
     # scan normalized files for matches
-    for p in sorted(glob(str(NORM_DIR / '*.json'))):
-        try:
-            with open(p, 'r', encoding='utf-8') as f:
-                other = json.load(f)
-        except Exception:
-            continue
-        if other.get('raw_id') == item.get('raw_id'):
-            continue
-        text = (other.get('title','') + '\n' + other.get('raw_text_excerpt',''))
-        tlow = text.lower()
-        score = 0
-        for kw in keywords:
-            if kw and kw in tlow:
-                score += 1
-        if score > 0:
-            key = other.get('raw_id') or p
-            if key in seen:
+    for norm_dir in NORM_DIRS:
+        for p in sorted(glob(str(norm_dir / '*.json'))):
+            try:
+                with open(p, 'r', encoding='utf-8') as f:
+                    other = json.load(f)
+            except Exception:
                 continue
-            seen.add(key)
-            snippets.append(text.strip())
-            # stop if accumulated chars exceed limit
-            if sum(len(s) for s in snippets) > max_chars:
-                break
+            if other.get('raw_id') == item.get('raw_id'):
+                continue
+            text = (other.get('title','') + '\n' + other.get('raw_text_excerpt',''))
+            tlow = text.lower()
+            score = 0
+            for kw in keywords:
+                if kw and kw in tlow:
+                    score += 1
+            if score > 0:
+                key = other.get('raw_id') or p
+                if key in seen:
+                    continue
+                seen.add(key)
+                snippets.append(text.strip())
+                # stop if accumulated chars exceed limit
+                if sum(len(s) for s in snippets) > max_chars:
+                    break
     return snippets
 
 def call_llm(prompt: str) -> str:
@@ -204,9 +206,13 @@ def main():
         'NORTH_STAR',
         'By April 2027, starting from my current role as Data Engineer, I will be working as a Generative AI Engineer at a company, verified by an employment start date and an official offer letter.'
     )
-    files = sorted(glob(str(NORM_DIR / '*.json')))
+    files = sorted(
+        path
+        for norm_dir in NORM_DIRS
+        for path in glob(str(norm_dir / '*.json'))
+    )
     if not files:
-        print('No normalized items found in', NORM_DIR)
+        print('No normalized items found in', ', '.join(str(path) for path in NORM_DIRS))
         return
     delay_s = float(os.environ.get('GROQ_REQUEST_DELAY', '2.5'))
     for p in files:

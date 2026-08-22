@@ -1,0 +1,34 @@
+{
+  "raw_id": "github-repo-1319196643",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T13:14:35Z",
+  "title": "api-evangelist/rightnow",
+  "company": "api-evangelist",
+  "description": "RightNow AI (RunInfra) turns plain-English descriptions of an inference workload into production, OpenAI-compatible AI endpoints. The platform selects open-source models from Hugging Face, benchmarks GPU options, applies kernel optimizations (quantization, speculative decoding, KV-cache tuning, Forge kernels), and deploys serverless, pay-per-token…",
+  "url": "https://github.com/api-evangelist/rightnow",
+  "skills": [
+    "hugging face",
+    "inference",
+    "llm",
+    "mlops"
+  ],
+  "topics": [
+    "apis-json",
+    "artificial-intelligence",
+    "company",
+    "embeddings",
+    "gpu",
+    "llm-inference",
+    "machine-learning",
+    "mlops",
+    "model-deployment",
+    "openai-compatible",
+    "serverless"
+  ],
+  "language": "",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "RightNow AI (RunInfra) turns plain-English descriptions of an inference workload into production, OpenAI-compatible AI endpoints. The platform selects open-source models from Hugging Face, benchmarks GPU options, applies kernel optimizations (quantization, speculative decoding, KV-cache tuning, Forge kernels), and deploys serverless, pay-per-token…",
+  "search_query": "inference mlops"
+}

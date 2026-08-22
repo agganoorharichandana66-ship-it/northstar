@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Mon, 17 Nov 2025 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-86f84b00b0941ea5",
+  "raw_id": "rss-86f84b00b0941ea5",
+  "title": "FishDB: a generic retrieval engine for scaling LinkedIn’s feed",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/infrastructure/fishdb-a-generic-retrieval-engine-for-scaling-linkedins-feed",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "FishDB: a generic retrieval engine for scaling LinkedIn’s feed\nFishDB: a generic retrieval engine for scaling LinkedIn’s feed",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

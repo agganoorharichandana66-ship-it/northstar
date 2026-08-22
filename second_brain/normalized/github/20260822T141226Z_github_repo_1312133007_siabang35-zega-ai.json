@@ -1,0 +1,20 @@
+{
+  "raw_id": "github-repo-1312133007",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:04:13Z",
+  "title": "siabang35/zega.ai",
+  "company": "siabang35",
+  "description": "ZEGA - Zero-friction Enterprise Generative AI & Automation is an agentic execution platform that lets organizations deploy, orchestrate, govern, and monetize AI agents across business workflows",
+  "url": "https://github.com/siabang35/zega.ai",
+  "skills": [
+    "agents",
+    "generative ai"
+  ],
+  "topics": [],
+  "language": "TypeScript",
+  "stars": 1,
+  "forks": 0,
+  "raw_text_excerpt": "ZEGA - Zero-friction Enterprise Generative AI & Automation is an agentic execution platform that lets organizations deploy, orchestrate, govern, and monetize AI agents across business workflows",
+  "search_query": "generative ai"
+}

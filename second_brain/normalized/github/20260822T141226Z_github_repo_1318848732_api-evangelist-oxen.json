@@ -1,0 +1,35 @@
+{
+  "raw_id": "github-repo-1318848732",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T13:05:28Z",
+  "title": "api-evangelist/oxen",
+  "company": "api-evangelist",
+  "description": "Oxen.ai is a blazing-fast data version control system and AI platform for teams building with their own data. Its open-source Rust core (liboxen) versions, branches, and shares terabyte-scale datasets, model weights, and experiments without Git's large-file limits.",
+  "url": "https://github.com/api-evangelist/oxen",
+  "skills": [
+    "fine-tuning",
+    "inference",
+    "mlops"
+  ],
+  "topics": [
+    "apis-json",
+    "artificial-intelligence",
+    "company",
+    "data-version-control",
+    "datasets",
+    "developer-tools",
+    "fine-tuning",
+    "inference",
+    "large-language-models",
+    "machine-learning",
+    "mlops",
+    "model-deployment",
+    "version-control"
+  ],
+  "language": "",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Oxen.ai is a blazing-fast data version control system and AI platform for teams building with their own data. Its open-source Rust core (liboxen) versions, branches, and shares terabyte-scale datasets, model weights, and experiments without Git's large-file limits.",
+  "search_query": "inference mlops"
+}

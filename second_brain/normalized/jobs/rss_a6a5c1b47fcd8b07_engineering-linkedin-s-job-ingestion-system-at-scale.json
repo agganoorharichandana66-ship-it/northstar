@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Thu, 29 Jan 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-a6a5c1b47fcd8b07",
+  "raw_id": "rss-a6a5c1b47fcd8b07",
+  "title": "Engineering LinkedIn's job ingestion system at scale",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/infrastructure/engineering-linkedins-job-ingestion-system-at-scale",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "Engineering LinkedIn's job ingestion system at scale\nEngineering LinkedIn's job ingestion system at scale",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

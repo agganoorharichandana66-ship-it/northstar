@@ -1,0 +1,11 @@
+```json
+{
+  "score": 49,
+  "breakdown": {
+    "alignment": 50,
+    "impact": 30,
+    "feasibility": 80,
+    "skill_match": 60,
+    "urgency": 20
+  },
+  "confidence": 0

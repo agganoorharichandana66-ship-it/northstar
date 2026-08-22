@@ -1,0 +1,39 @@
+{
+  "raw_id": "github-repo-1267808558",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T13:17:18Z",
+  "title": "api-evangelist/seldon",
+  "company": "api-evangelist",
+  "description": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine learning models at scale. The platform provides REST and gRPC inference APIs that follow the Open Inference Protocol, enabling standardized model serving across frameworks including TensorFlow, PyTorch, and scikit-learn.",
+  "url": "https://github.com/api-evangelist/seldon",
+  "skills": [
+    "inference",
+    "kubernetes",
+    "llm",
+    "machine learning",
+    "mlops",
+    "model serving",
+    "pytorch",
+    "tensorflow"
+  ],
+  "topics": [
+    "a-b-testing",
+    "ai-operations",
+    "apis-json",
+    "canary-deployment",
+    "drift-detection",
+    "explainability",
+    "inference",
+    "kubernetes",
+    "llmops",
+    "machine-learning",
+    "mlops",
+    "model-serving"
+  ],
+  "language": "",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Seldon is a Kubernetes-native MLOps platform that enables enterprises to deploy, monitor, manage, and explain machine learning models at scale. The platform provides REST and gRPC inference APIs that follow the Open Inference Protocol, enabling standardized model serving across frameworks including TensorFlow, PyTorch, and scikit-learn.",
+  "search_query": "inference mlops"
+}

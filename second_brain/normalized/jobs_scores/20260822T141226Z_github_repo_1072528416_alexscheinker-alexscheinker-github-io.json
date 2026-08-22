@@ -1,0 +1,12 @@
+{
+  "score": 19,
+  "breakdown": {
+    "alignment": 10,
+    "impact": 5,
+    "feasibility": 80,
+    "skill_match": 15,
+    "urgency": 0
+  },
+  "confidence": 0.4,
+  "notes": "Repository is a personal website with minimal code; limited evidence of generative AI work; low relevance to target role."
+}

@@ -1,0 +1,26 @@
+{
+  "raw_id": "github-repo-1342873008",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:12:15Z",
+  "title": "Yeq6X/mazelingo",
+  "company": "Yeq6X",
+  "description": "Sentence-level bilingual mix translator — Chrome extension (MV3). Read the web with your two languages mixed sentence by sentence.",
+  "url": "https://github.com/Yeq6X/mazelingo",
+  "skills": [
+    "llm"
+  ],
+  "topics": [
+    "chrome-extension",
+    "english",
+    "japanese",
+    "language-learning",
+    "llm",
+    "translation"
+  ],
+  "language": "JavaScript",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "Sentence-level bilingual mix translator — Chrome extension (MV3). Read the web with your two languages mixed sentence by sentence.",
+  "search_query": "llm"
+}

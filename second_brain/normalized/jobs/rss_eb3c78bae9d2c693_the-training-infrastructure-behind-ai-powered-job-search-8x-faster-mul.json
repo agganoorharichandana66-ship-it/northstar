@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Thu, 06 Aug 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-eb3c78bae9d2c693",
+  "raw_id": "rss-eb3c78bae9d2c693",
+  "title": "The training infrastructure behind AI-Powered Job Search: 8X faster multi-teacher distillation",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/infrastructure/the-training-infrastructure-behind-ai-powered-job-search-eight-x-faster-multi-teacher-distillation",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "The training infrastructure behind AI-Powered Job Search: 8X faster multi-teacher distillation\nThe training infrastructure behind AI-Powered Job Search: 8X faster multi-teacher distillation",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

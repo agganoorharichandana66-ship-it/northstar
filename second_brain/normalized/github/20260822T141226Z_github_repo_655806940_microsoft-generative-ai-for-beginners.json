@@ -1,0 +1,36 @@
+{
+  "raw_id": "github-repo-655806940",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:01:01Z",
+  "title": "microsoft/generative-ai-for-beginners",
+  "company": "microsoft",
+  "description": "21 Lessons, Get Started Building with Generative AI ",
+  "url": "https://github.com/microsoft/generative-ai-for-beginners",
+  "skills": [
+    "generative ai",
+    "llm",
+    "transformers"
+  ],
+  "topics": [
+    "ai",
+    "azure",
+    "chatgpt",
+    "dall-e",
+    "generative-ai",
+    "generativeai",
+    "gpt",
+    "language-model",
+    "llms",
+    "microsoft-for-beginners",
+    "openai",
+    "prompt-engineering",
+    "semantic-search",
+    "transformers"
+  ],
+  "language": "Jupyter Notebook",
+  "stars": 118329,
+  "forks": 62379,
+  "raw_text_excerpt": "21 Lessons, Get Started Building with Generative AI ",
+  "search_query": "generative ai"
+}

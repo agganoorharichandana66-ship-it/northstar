@@ -1,0 +1,19 @@
+{
+  "raw_id": "github-repo-1342872201",
+  "source": "github",
+  "item_type": "repository",
+  "date": "2026-08-22T14:11:59Z",
+  "title": "Geeshpath/gov_Transperancy_RAG",
+  "company": "Geeshpath",
+  "description": "",
+  "url": "https://github.com/Geeshpath/gov_Transperancy_RAG",
+  "skills": [
+    "rag"
+  ],
+  "topics": [],
+  "language": "Python",
+  "stars": 0,
+  "forks": 0,
+  "raw_text_excerpt": "{\n  \"id\": 1342872201,\n  \"node_id\": \"R_kgDOUAqaiQ\",\n  \"name\": \"gov_Transperancy_RAG\",\n  \"full_name\": \"Geeshpath/gov_Transperancy_RAG\",\n  \"private\": false,\n  \"owner\": {\n    \"login\": \"Geeshpath\",\n    \"id\": 183970885,\n    \"node_id\": \"U_kgDOCvcsRQ\",\n    \"avatar_url\": \"https://avatars.githubusercontent.com/u/183970885?v=4\",\n    \"gravatar_id\": \"\",\n    \"url\": \"https://api.github.com/users/Geeshpath\",\n    \"html_url\": \"https://github.com/Geeshpath\",\n    \"followers_url\": \"https://api.github.com/users/Geesh",
+  "search_query": "rag"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Thu, 18 Jun 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-9e450843fd55c69e",
+  "raw_id": "rss-9e450843fd55c69e",
+  "title": "Quality Assurance Agent: Reimagining Software Quality with AI-Driven Autonomous Testing",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/ai/qa-agent-reimagining-software-quality-with-ai-driven-autonomous-testing",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "Quality Assurance Agent: Reimagining Software Quality with AI-Driven Autonomous Testing\nQuality Assurance Agent: Reimagining Software Quality with AI-Driven Autonomous Testing",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

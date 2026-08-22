@@ -1,0 +1,26 @@
+{
+  "source": "rss",
+  "date": "Fri, 12 Jun 2026 12:00:00 GMT",
+  "from": "",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "rss-601149e304d74222",
+  "raw_id": "rss-601149e304d74222",
+  "title": "Accelerating Go-To-Market Velocity with the Product Configuration Center",
+  "company": "",
+  "location": "",
+  "url": "https://www.linkedin.com/blog/engineering/platform-platformization/accelerating-go-to-market-velocity-with-the-product-configuration-center",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [],
+  "raw_text_excerpt": "Accelerating Go-To-Market Velocity with the Product Configuration Center\nAccelerating Go-To-Market Velocity with the Product Configuration Center",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "error": "no TAVILY_API_KEY configured"
+    }
+  }
+}

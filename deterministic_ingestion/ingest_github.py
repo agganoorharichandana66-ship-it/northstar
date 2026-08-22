@@ -7,6 +7,7 @@ search API with configured topic queries and deterministic sorting.
 import json
 import os
 import re
+import time
 from datetime import datetime, timezone
 from urllib.parse import urlencode
 
@@ -50,10 +51,37 @@ def slugify(value: str) -> str:
 def search_repositories(query: str, sort: str) -> list[dict]:
     params = {'q': query, 'sort': sort, 'order': 'desc', 'per_page': per_query}
     url = f'https://api.github.com/search/repositories?{urlencode(params)}'
-    response = requests.get(url, headers=headers, timeout=20)
-    if response.status_code != 200:
-        raise RuntimeError(f'GitHub search error {response.status_code}: {response.text[:500]}')
-    return response.json().get('items', [])
+    max_retries = int(os.getenv('GITHUB_MAX_RETRIES', '4'))
+    for attempt in range(max_retries):
+        try:
+            response = requests.get(url, headers=headers, timeout=30)
+        except requests.RequestException as error:
+            if attempt == max_retries - 1:
+                print(f'GitHub request failed for query={query!r}, sort={sort!r}: {error}')
+                return []
+            wait = min(60, 2 ** attempt * 2)
+            print(f'GitHub request failed; retrying in {wait}s (attempt {attempt + 1}/{max_retries})')
+            time.sleep(wait)
+            continue
+
+        if response.status_code == 200:
+            return response.json().get('items', [])
+
+        transient = response.status_code == 429 or 500 <= response.status_code < 600
+        if transient and attempt < max_retries - 1:
+            retry_after = response.headers.get('Retry-After')
+            try:
+                wait = max(1, int(retry_after)) if retry_after else min(60, 2 ** attempt * 2)
+            except ValueError:
+                wait = min(60, 2 ** attempt * 2)
+            print(f'GitHub returned {response.status_code}; retrying in {wait}s (attempt {attempt + 1}/{max_retries})')
+            time.sleep(wait)
+            continue
+
+        print(f'GitHub search skipped query={query!r}, sort={sort!r}: HTTP {response.status_code} {response.text[:300]}')
+        return []
+
+    return []
 
 
 def write_repository(repo: dict, query: str, sort: str) -> None:

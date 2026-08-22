@@ -1,0 +1,12 @@
+{
+  "score": 30,
+  "breakdown": {
+    "alignment": 10,
+    "impact": 20,
+    "feasibility": 80,
+    "skill_match": 30,
+    "urgency": 50
+  },
+  "confidence": 0.6,
+  "notes": "Senior Data Engineer role does not align with Generative AI Engineer target; limited skill overlap; high feasibility but low impact on North Star."
+}

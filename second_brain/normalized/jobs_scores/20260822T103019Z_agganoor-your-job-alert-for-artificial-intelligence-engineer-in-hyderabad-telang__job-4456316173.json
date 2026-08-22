@@ -1,0 +1,12 @@
+{
+  "score": 66,
+  "breakdown": {
+    "alignment": 60,
+    "impact": 60,
+    "feasibility": 70,
+    "skill_match": 80,
+    "urgency": 70
+  },
+  "confidence": 0.7,
+  "notes": "Job includes generative AI skill but not explicitly Generative AI Engineer; moderate alignment and feasibility."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 36,
+  "breakdown": {
+    "alignment": 20,
+    "impact": 30,
+    "feasibility": 90,
+    "skill_match": 10,
+    "urgency": 70
+  },
+  "confidence": 0.5,
+  "notes": "Senior Data Engineer role does not directly align with Generative AI Engineer goal; limited skill match."
+}

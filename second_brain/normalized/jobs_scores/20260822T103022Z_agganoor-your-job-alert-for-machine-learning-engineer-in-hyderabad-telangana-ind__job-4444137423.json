@@ -1,0 +1,12 @@
+{
+  "score": 60,
+  "breakdown": {
+    "alignment": 50,
+    "impact": 60,
+    "feasibility": 70,
+    "skill_match": 80,
+    "urgency": 50
+  },
+  "confidence": 0.7,
+  "notes": "Lead ML role at AMD with LLM skill; good but not directly generative AI."
+}

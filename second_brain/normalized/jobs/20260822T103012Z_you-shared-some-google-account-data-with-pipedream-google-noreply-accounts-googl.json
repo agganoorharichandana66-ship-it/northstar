@@ -1,0 +1,29 @@
+{
+  "source": "email",
+  "date": "2026-08-21T07:18:57-07:00",
+  "from": "Google <noreply-accounts@google.com>",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "you-shared-some-google-account-data-with-pipedream-google-noreply-accounts-googl",
+  "raw_id": "you-shared-some-google-account-data-with-pipedream-google-noreply-accounts-googl",
+  "title": "Keep track of your Google Account data",
+  "company": "",
+  "location": "",
+  "url": "",
+  "date_posted": "",
+  "tags": [],
+  "skills": [
+    "genai"
+  ],
+  "responsibilities": [],
+  "raw_text_excerpt": "Keep track of your Google Account data\nKeep track of your Google Account data\n\n\n\n\n\n\n\ngenaijobsautomate@gmail.com\n\n\n\n \n\n\n\n<!--[if !mso]><!-->\n\n\n\n<!--[if false]><!-->\n\n\n\n\n\nYou're receiving this email be",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "skipped": true,
+      "reason": "no job url to verify"
+    }
+  }
+}

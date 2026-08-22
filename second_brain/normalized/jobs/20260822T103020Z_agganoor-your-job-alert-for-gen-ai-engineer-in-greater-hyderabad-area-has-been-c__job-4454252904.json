@@ -1,0 +1,30 @@
+{
+  "source": "email",
+  "date": "2026-08-22T01:18:07+00:00",
+  "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+  "email_type": "linkedin_job_digest",
+  "alert_query": "Gen Ai Engineer in Greater Hyderabad Area",
+  "parent_raw_id": "agganoor-your-job-alert-for-gen-ai-engineer-in-greater-hyderabad-area-has-been-c",
+  "raw_id": "agganoor-your-job-alert-for-gen-ai-engineer-in-greater-hyderabad-area-has-been-c__job-4454252904",
+  "title": "TalentBridge",
+  "company": "Hyderabad, Telangana, India",
+  "location": "This company is actively hiring",
+  "url": "https://www.linkedin.com/comm/jobs/view/4454252904?alertAction=markasviewed&savedSearchId=5525879417&savedSearchAuthToken=1&AQGuXY0MYcrQywAAAaAl0rtesDH0PSQ74NiNZhbUJPHRtLDegzXIL3MJ0_ZXxqz8nuX-vOfj_IuAZ63qclxqCT1rcwmvMxC3cA5GBlP6CKKzqCuQ3buxtutjdZ5E7jqwRgh8AeEok455GTL071sI347dzwp6xIIy6xcYWukRZOkQ3LP66-zkY9OqBWPq9VdRjUrZwcTizhP8ZBSzY92sAYBvlrnD7VA_ojz0vuLrDNp2ZKm19T4pR2wqGN10UsQsFu_NqAkh89Ac4Ah4FHm2RS-eibWl8acUS8v6nyE2wBNcBjzri92EOBc=&AfHyQsjt-s-f4OtmC1kpgmkKlnbi=&trackingId=R5YodxUQdnuJzoV0NiuoGA%3D%3D&refId=zBS%2B4Ka7dAFhrHUz%2BNPnng%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_confirmation_01%3BikgLnOLlRGG%2Ft3gt3TN0LQ%3D%3D&midToken=AQE-MMIteF74_Q&midSig=0E_LrP852Kzco1&trk=eml-email_job_alert_confirmation_01-email_job_alert_confirmation-0-view_job&trkEmail=eml-email_job_alert_confirmation_01-email_job_alert_confirmation-0-view_job-null-c54vgj~mt3ovpfj~61-null-null&eid=c54vgj-mt3ovpfj-61&otpToken=YzkyYWVkY2M0NzlkZWY3NjcwMGE5MWFlZDUyNDMzNDUyODA5OTI0MzYyMjhlY2FkMDk4NmJhMTljZmE1Njk1OTQyMDE4OGYwYjk4MDQyMzY2OTNlZWE0YjBmMmQxMTRkMmE2ZmNjODQ4NzM2NTg3NTcwZDI2YjlhZDBmZDlkN2IwN2YzYzYzOGM5YTU5NTMzLDIsMQ%3D%3D",
+  "date_posted": "",
+  "tags": [],
+  "skills": [
+    "gen ai",
+    "generative ai"
+  ],
+  "responsibilities": [],
+  "raw_text_excerpt": "TalentBridge\nHyderabad, Telangana, India\nThis company is actively hiring\nYour job alert has been created: Gen Ai Engineer in Greater Hyderabad Area.\n\nYou’ll receive notifications when new jobs are pos",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "http_status": 404,
+      "body": ""
+    }
+  }
+}

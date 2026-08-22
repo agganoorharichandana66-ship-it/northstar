@@ -1,0 +1,59 @@
+name: Weekly Ingest
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # weekly, Monday 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: python -m pip install --upgrade pip && pip install -r deterministic_ingestion/requirements.txt
+
+      - name: Run GitHub ingest
+        env:
+          GITHUB_TOKEN: ${{ secrets.secondbrain }}
+        run: python deterministic_ingestion/ingest_github.py
+
+      - name: Run RSS ingest
+        run: python deterministic_ingestion/ingest_linkedin_rss.py
+
+      - name: Run IMAP email ingest
+        env:
+          IMAP_HOST: ${{ secrets.IMAP_HOST }}
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASS: ${{ secrets.IMAP_PASS }}
+        run: python deterministic_ingestion/ingest_email_imap.py
+
+      - name: Run LMS folder ingest
+        run: python deterministic_ingestion/ingest_lms_folder.py
+
+      - name: Run YouTube ingest (if configured)
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python deterministic_ingestion/ingest_youtube.py || echo 'no youtube config'
+
+      - name: Normalize jobs
+        run: python deterministic_ingestion/normalize_job.py
+
+      - name: Score normalized jobs with GROQ
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_API_URL: ${{ secrets.GROQ_API_URL }}
+          GROQ_MODEL: ${{ secrets.GROQ_MODEL }}
+          NORTH_STAR: >-
+            By April 2027, starting from my current role as Data Engineer, I will be
+            working as a Generative AI Engineer at a company, verified by an
+            employment start date and an official offer letter.
+        run: |
+          python deterministic_ingestion/score_with_llm.py || echo 'scoring step failed or no GROQ key provided'

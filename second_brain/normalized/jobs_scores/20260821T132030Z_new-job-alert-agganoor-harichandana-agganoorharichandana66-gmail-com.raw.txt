@@ -1,0 +1,12 @@
+### What is a “quantum computer”?
+
+A normal computer (the one you use for typing, browsing, playing games, etc.) stores information in **bits**.  
+A bit can be either **0** or **1**—think of a light switch that’s either OFF or ON.
+
+A quantum computer stores information in **qubits**.  
+A qubit is a bit that can be 0, 1, **or both at the same time** (a superposition).  
+Because of this, a quantum computer can hold and process many possibilities simultaneously.
+
+---
+
+## 1. Two key quantum “

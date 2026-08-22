@@ -1,0 +1,41 @@
+{
+  "source": "email",
+  "date": "2026-08-21T18:44:54+05:30",
+  "from": "Agganoor Harichandana <agganoorharichandana66@gmail.com>",
+  "email_type": "structured_single_job",
+  "alert_query": "",
+  "parent_raw_id": "new-job-alert-agganoor-harichandana-agganoorharichandana66-gmail-com",
+  "raw_id": "new-job-alert-agganoor-harichandana-agganoorharichandana66-gmail-com",
+  "title": "Senior Data Engineer",
+  "company": "Acme Corp",
+  "location": "Remote",
+  "url": "https://www.linkedin.com/jobs/view/123456",
+  "date_posted": "2026-08-20",
+  "tags": [
+    "data-engineer",
+    "spark",
+    "python"
+  ],
+  "skills": [
+    "etl",
+    "python",
+    "spark"
+  ],
+  "responsibilities": [
+    "design etl",
+    "manage streaming",
+    "mentor",
+    "responsibilit",
+    "design ETL, manage streaming, mentor junior engineers."
+  ],
+  "raw_text_excerpt": "Senior Data Engineer\nAcme Corp\nRemote\ntitle: \"Senior Data Engineer\"\n\ncompany: \"Acme Corp\"\n\nlocation: \"Remote\"\n\nurl: \"https://www.linkedin.com/jobs/view/123456\"\n\ndate_posted: \"2026-08-20\"\n\nsource: \"Lin",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "http_status": 404,
+      "body": ""
+    }
+  }
+}

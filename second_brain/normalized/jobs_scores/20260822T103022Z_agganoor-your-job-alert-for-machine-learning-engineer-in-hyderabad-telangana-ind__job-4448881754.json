@@ -1,0 +1,12 @@
+{
+  "score": 69,
+  "breakdown": {
+    "alignment": 60,
+    "impact": 70,
+    "feasibility": 80,
+    "skill_match": 85,
+    "urgency": 65
+  },
+  "confidence": 0.7,
+  "notes": "ML Engineer role at Amgen includes LLM skill, moderate alignment to Generative AI goal; good feasibility and skill match but not a direct GenAI position."
+}

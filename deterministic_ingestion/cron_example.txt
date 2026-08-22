@@ -1,0 +1,7 @@
+# Example cron (runs every hour). Edit schedule as needed.
+# Use `crontab -e` to add these lines on Linux.
+
+0 * * * * /usr/bin/python3 /path/to/northstar/deterministic_ingestion/ingest_linkedin_rss.py >> /var/log/second_brain/ingest_linkedin.log 2>&1
+15 * * * * /usr/bin/python3 /path/to/northstar/deterministic_ingestion/ingest_github.py >> /var/log/second_brain/ingest_github.log 2>&1
+30 * * * * /usr/bin/python3 /path/to/northstar/deterministic_ingestion/ingest_email.py >> /var/log/second_brain/ingest_email.log 2>&1
+# Windows: use Task Scheduler to run the same Python commands on a schedule.

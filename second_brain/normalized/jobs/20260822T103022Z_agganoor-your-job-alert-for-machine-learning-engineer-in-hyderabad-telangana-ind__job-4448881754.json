@@ -1,0 +1,31 @@
+{
+  "source": "email",
+  "date": "2026-08-22T03:18:07+00:00",
+  "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+  "email_type": "linkedin_job_digest",
+  "alert_query": "Machine Learning Engineer in Hyderabad, Telangana, India",
+  "parent_raw_id": "agganoor-your-job-alert-for-machine-learning-engineer-in-hyderabad-telangana-ind",
+  "raw_id": "agganoor-your-job-alert-for-machine-learning-engineer-in-hyderabad-telangana-ind__job-4448881754",
+  "title": "Machine Learning Engineer",
+  "company": "Amgen",
+  "location": "Hyderabad, Telangana, India",
+  "url": "https://www.linkedin.com/comm/jobs/view/4448881754?alertAction=markasviewed&savedSearchId=5525879585&savedSearchAuthToken=1&AQFBc9z_iHSUzAAAAaAl2PXGpm1zxCJUIO_8hjtN5k7JWDphh5irCGf-lPm1KQ5LxFSpYj7o5O7KRduXjs48WYjX5EWHoT5L-eVS3A3iBhTdU6QRdASeO-fUjd-a1O7pULOIEfLwSK0JkQn2FPeC1k3a-727W9M5umhZDqwHTJnCI0iq_5kSwG4tODVMJ1pj5T1BIcmnjFMV3vyF4G73669IuKJbboJkb1e9vFtbaTbI8fZsi3EjnxXUvGioMB4Vryv5NM2G4XWMN9vM7-slGknl6_x7AMuwCtba_drwflB-vKYIpiRkFJA=&AWAL_pMjBswiyd8ojJ7DDAECmGg8=&trackingId=43i038Fji0JEGakyFFRb2Q%3D%3D&refId=O7kH6yqixeK8lXkXiuFv3A%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_confirmation_01%3Blcq4l2kQRHmZxmXLkKe6gw%3D%3D&midToken=AQE-MMIteF74_Q&midSig=0rUTO_VLoCzso1&trk=eml-email_job_alert_confirmation_01-email_job_alert_confirmation-0-view_job&trkEmail=eml-email_job_alert_confirmation_01-email_job_alert_confirmation-0-view_job-null-c54vgj~mt3t60v1~om-null-null&eid=c54vgj-mt3t60v1-om&otpToken=NjNlMWIzNGE4OGMyYzBmM2E3YTI4MDM1NTk0MmEwMWIzZTJkOGU3YTBjMjllMmE0ZDY1YzcwNDhlOGM0N2Q3ZGI5ZTVjMDhlNzU3MjYyODJlYTZmZjA2MjZjMzJiOWUwYWI3ZDJlYWFjOWE4ZDBkZDRmODFmMDg4ZmNiMjljZDI0NDdlZTA1YzM0NTdiZTEyLDIsMQ%3D%3D",
+  "date_posted": "",
+  "tags": [],
+  "skills": [
+    "data science",
+    "llm",
+    "machine learning"
+  ],
+  "responsibilities": [],
+  "raw_text_excerpt": "Machine Learning Engineer\nAmgen\nHyderabad, Telangana, India\nYour job alert has been created: Machine Learning Engineer in Hyderabad, Telangana, India.\n\nYou’ll receive notifications when new jobs are p",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "http_status": 404,
+      "body": ""
+    }
+  }
+}

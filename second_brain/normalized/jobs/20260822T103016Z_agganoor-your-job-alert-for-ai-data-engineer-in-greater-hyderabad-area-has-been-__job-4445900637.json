@@ -1,0 +1,30 @@
+{
+  "source": "email",
+  "date": "2026-08-21T21:18:07+00:00",
+  "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+  "email_type": "linkedin_job_digest",
+  "alert_query": "AI Data Engineer in Greater Hyderabad Area",
+  "parent_raw_id": "agganoor-your-job-alert-for-ai-data-engineer-in-greater-hyderabad-area-has-been-",
+  "raw_id": "agganoor-your-job-alert-for-ai-data-engineer-in-greater-hyderabad-area-has-been-__job-4445900637",
+  "title": "Cisco",
+  "company": "Greater Hyderabad Area",
+  "location": "This company is actively hiring",
+  "url": "https://www.linkedin.com/comm/jobs/view/4445900637?alertAction=markasviewed&savedSearchId=5525879593&savedSearchAuthToken=1&AQGrL_TzpF4yVQAAAaAl2TMmVzUw03KtCmzni3eiNFMJlxn1q7DqjdpjRJjXB9-PP9VvMNGrstvwXEtEKc0PdNa7ut_2HZqlX122-LhRVlLbXqa_JgUffZo7e-Yq0dFyNuWdARY8eWurLXHtoep9NecDRkMnZTnBohdJWYkK5OohgTK9gkew1at8fY2GTKT18b4eJNCEeAZMnjJ0b4SZ6dtOYMYFfcKSnZH9D5Gd5g1xj2m-nGV9srCMCPbUrWoiq_S-wBDywtJASHZ0DSIzL54yCSQKOJAe0qMi_Kd2xn3u4BJZ9q_aOyc=&AdeG1ugtSwYD0kz9t5MbNEwPH9V2=&trackingId=p%2FPsfkQLMtlnd%2Fp6NDJDCw%3D%3D&refId=Cjw1JAiuRpzfo8BkLjulXw%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_confirmation_01%3B1f%2BP8unoSIaVP%2BY4wn%2FQNQ%3D%3D&midToken=AQE-MMIteF74_Q&midSig=1IEJy9DXm-yYo1&trk=eml-email_job_alert_confirmation_01-email_job_alert_confirmation-0-view_job&trkEmail=eml-email_job_alert_confirmation_01-email_job_alert_confirmation-0-view_job-null-c54vgj~mt3gb1v5~qd-null-null&eid=c54vgj-mt3gb1v5-qd&otpToken=OGRkMTdkNjRjMmZjYzZkZjZlNGQ0ZmNkNjdmMzQyM2IwMzIyZmE5MjVlNTc4ZmY2YmRjODA4OTBiNzQzOTJkZjdkYjgyMDAyODE4OTNlMDZlMGYxMDIxNWZlOGNhNmQzM2U2MDkxODA4YzZkMTVjZGFhMDM3Y2FmMDc2ZDFjNzI4OGU5NzE3MDA0NWFjNDk3LDIsMQ%3D%3D",
+  "date_posted": "",
+  "tags": [],
+  "skills": [
+    "data science",
+    "machine learning"
+  ],
+  "responsibilities": [],
+  "raw_text_excerpt": "Cisco\nGreater Hyderabad Area\nThis company is actively hiring\nYour job alert has been created: AI Data Engineer in Greater Hyderabad Area.\n\nYou’ll receive notifications when new jobs are posted that ma",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "http_status": 404,
+      "body": ""
+    }
+  }
+}

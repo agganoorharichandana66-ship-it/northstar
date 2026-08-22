@@ -1,0 +1,12 @@
+{
+  "score": 50,
+  "breakdown": {
+    "alignment": 50,
+    "impact": 60,
+    "feasibility": 80,
+    "skill_match": 20,
+    "urgency": 30
+  },
+  "confidence": 0.6,
+  "notes": "Senior role at EY but lacks explicit generative AI responsibilities; moderate alignment."
+}

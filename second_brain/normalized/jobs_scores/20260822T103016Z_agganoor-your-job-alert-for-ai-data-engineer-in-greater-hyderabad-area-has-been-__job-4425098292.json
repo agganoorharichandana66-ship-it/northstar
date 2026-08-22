@@ -1,0 +1,12 @@
+{
+  "score": 52,
+  "breakdown": {
+    "alignment": 30,
+    "impact": 70,
+    "feasibility": 80,
+    "skill_match": 60,
+    "urgency": 50
+  },
+  "confidence": 0.6,
+  "notes": "Mid-level ML/Data Science role at Deloitte; aligns partially with generative AI goal but lacks explicit LLM focus."
+}

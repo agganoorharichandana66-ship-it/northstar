@@ -1,0 +1,12 @@
+{
+  "score": 67,
+  "breakdown": {
+    "alignment": 60,
+    "impact": 80,
+    "feasibility": 70,
+    "skill_match": 75,
+    "urgency": 50
+  },
+  "confidence": 0.7,
+  "notes": "Principal Software Engineer at Microsoft with LLM skill; aligns moderately with Generative AI goal but not explicitly a GenAI role."
+}

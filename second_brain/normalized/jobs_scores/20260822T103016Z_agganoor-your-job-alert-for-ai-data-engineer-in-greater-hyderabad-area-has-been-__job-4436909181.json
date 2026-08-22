@@ -1,0 +1,12 @@
+{
+  "score": 36,
+  "breakdown": {
+    "alignment": 20,
+    "impact": 30,
+    "feasibility": 70,
+    "skill_match": 40,
+    "urgency": 50
+  },
+  "confidence": 0.4,
+  "notes": "Job alert for AI Data Engineer; generic skills, not directly Generative AI."
+}

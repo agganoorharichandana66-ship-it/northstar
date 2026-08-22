@@ -1,0 +1,12 @@
+{
+  "score": 37,
+  "breakdown": {
+    "alignment": 20,
+    "impact": 30,
+    "feasibility": 80,
+    "skill_match": 40,
+    "urgency": 50
+  },
+  "confidence": 0.6,
+  "notes": "Data Engineering Lead role does not directly align with Generative AI Engineer goal; moderate feasibility but low skill match."
+}

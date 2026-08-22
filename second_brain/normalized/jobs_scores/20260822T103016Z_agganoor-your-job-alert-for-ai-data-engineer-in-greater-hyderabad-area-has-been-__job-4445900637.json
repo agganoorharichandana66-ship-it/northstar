@@ -1,0 +1,12 @@
+{
+  "score": 46,
+  "breakdown": {
+    "alignment": 30,
+    "impact": 50,
+    "feasibility": 80,
+    "skill_match": 40,
+    "urgency": 60
+  },
+  "confidence": 0.5,
+  "notes": "Job is AI Data Engineer, not generative AI; moderate alignment but feasible."
+}

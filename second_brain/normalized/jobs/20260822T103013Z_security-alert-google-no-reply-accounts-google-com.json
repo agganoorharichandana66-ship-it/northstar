@@ -1,0 +1,29 @@
+{
+  "source": "email",
+  "date": "2026-08-21T14:58:57+00:00",
+  "from": "Google <no-reply@accounts.google.com>",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "security-alert-google-no-reply-accounts-google-com",
+  "raw_id": "security-alert-google-no-reply-accounts-google-com",
+  "title": "[image: Google]",
+  "company": "",
+  "location": "",
+  "url": "",
+  "date_posted": "",
+  "tags": [],
+  "skills": [
+    "genai"
+  ],
+  "responsibilities": [],
+  "raw_text_excerpt": "[image: Google]\n[image: Google]\n\nYou allowed Pipedream access to some of your Google Account data\n\n\n\n\n\ngenaijobsautomate@gmail.com\n\n\n\nIf you didn't allow Pipedream access to some of your Google Accoun",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "skipped": true,
+      "reason": "no job url to verify"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+**Quantum computing in plain language**
+
+Think of a classical computer as a very fast, very organized librarian.  
+The librarian can look up a book in a stack of books that are either *on* (1) or *off* (0).  
+Every instruction the computer follows is like the librarian turning a page, moving a book, or flipping a switch.  
+All of the librarian’s work is deterministic: if you give the same instruction twice, the result is always the same.
+
+A quantum computer is like a librarian who can **simultaneously hold several books in a special “blurred” state** – a state that is not just *on* or *off*, but a mix of both. This “blur

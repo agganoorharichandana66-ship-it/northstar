@@ -1,0 +1,29 @@
+{
+  "source": "email",
+  "date": "2026-08-21T14:59:32+00:00",
+  "from": "Tod Sacerdoti <tod@pipedream.com>",
+  "email_type": "unstructured_email",
+  "alert_query": "",
+  "parent_raw_id": "welcome-to-pipedream-tod-sacerdoti-tod-pipedream-com",
+  "raw_id": "welcome-to-pipedream-tod-sacerdoti-tod-pipedream-com",
+  "title": "<html>",
+  "company": "",
+  "location": "",
+  "url": "",
+  "date_posted": "",
+  "tags": [],
+  "skills": [],
+  "responsibilities": [
+    "prompt"
+  ],
+  "raw_text_excerpt": "<html>\n<html>\n\n  <body>\n\n    Thanks for signing up!\n\n    <br /><br />\n\n\n\n    Want to get the most out of <strong>String</strong>? Quality prompts make a huge difference.\n\n    <br /><br />\n\n\n\n    Here ",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "skipped": true,
+      "reason": "no job url to verify"
+    }
+  }
+}

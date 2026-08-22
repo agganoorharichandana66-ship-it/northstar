@@ -1,0 +1,29 @@
+{
+  "paths": {
+    "raw_jobs_dir": "second_brain/raw/jobs",
+    "raw_learning_dir": "second_brain/raw/learning",
+    "normalized_jobs_dir": "second_brain/normalized/jobs"
+  },
+  "github": {
+    "username": "your-github-username",
+    "token_env_var": "GITHUB_TOKEN"
+  },
+  "rss": {
+    "linkedin_rss": "",
+    "x_jobs_rss": ""
+  },
+  "youtube": {
+    "playlists": [
+      ""  
+    ]
+  },
+  "lms": {
+    "inbox_dir": "inbox_lms"
+  },
+  "zapier": {
+    "webhook_url": "" 
+  },
+  "email": {
+    "inbox_dir": "inbox_emails"
+  }
+}

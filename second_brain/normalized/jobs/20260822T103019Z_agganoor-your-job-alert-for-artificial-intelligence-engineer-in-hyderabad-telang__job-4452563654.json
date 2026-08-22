@@ -1,0 +1,32 @@
+{
+  "source": "email",
+  "date": "2026-08-21T23:18:07+00:00",
+  "from": "LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>",
+  "email_type": "linkedin_job_digest",
+  "alert_query": "Artificial Intelligence Engineer in Hyderabad, Telangana, India",
+  "parent_raw_id": "agganoor-your-job-alert-for-artificial-intelligence-engineer-in-hyderabad-telang",
+  "raw_id": "agganoor-your-job-alert-for-artificial-intelligence-engineer-in-hyderabad-telang__job-4452563654",
+  "title": "Generative AI Engineer",
+  "company": "HCLTech",
+  "location": "Greater Hyderabad Area",
+  "url": "https://www.linkedin.com/comm/jobs/view/4452563654?alertAction=markasviewed&savedSearchId=5525879561&savedSearchAuthToken=1&AQFWBA7nXl60_wAAAaAl2GIb1c-k8VFEGBKw6wM2emYXm-9Z7vsaMH1g6ivKY5EQVbob57wmbKkuUK_y5oVjQNau2UvcEfWt71oKI3DAcawyygg-oT45hHlf2SETqa0xq7fpo-ZMg2Q4dQFSWb6cIKZNXyWtqEdtHLrC7mkayAIB7rBjhip6AVpCoZLe4bCv3XQutKSHG8EB8R0KBuEipqqDDCVGo8B-LhPb7jYI4PKDlutwTzrotl7rz5FWXgCsTA07VmCZLg1UZg00K7ygCj3s_bXG1aR_bTAsB5xDLWUKDIMzRC0c8wk=&AcZniZNI8_Df-wSwWINEZYoU7s0u=&trackingId=4d4s9z1wmUWqEN8%2BkVBX0Q%3D%3D&refId=PGZCp11DD6tyfFZ6Px%2BBug%3D%3D&lipi=urn%3Ali%3Apage%3Aemail_email_job_alert_confirmation_01%3BUHHxpp8CSvSEQCX2pmA1pQ%3D%3D&midToken=AQE-MMIteF74_Q&midSig=3dqB1c7MISzco1&trk=eml-email_job_alert_confirmation_01-email_job_alert_confirmation-0-view_job&trkEmail=eml-email_job_alert_confirmation_01-email_job_alert_confirmation-0-view_job-null-c54vgj~mt3kldmr~5g-null-null&eid=c54vgj-mt3kldmr-5g&otpToken=NGQwNDA3MWNhNzUzZjkzNjMzMjM2YWVjZTRmZGMyYmFiNzYyZjEwNjA1NWFlN2FkYTZkMzQwNzkwNjU2MGI5ZWIxODA5MzVmYjZhZDFkNjJiNzE0Njc5ZjBkOTdhZTJhNjcwYWVmM2YyZTYzZWM1OGYxOWRmMDA3MWNlNzRkNjM2ZGMzY2NjODYzNDZjODA2LDIsMQ%3D%3D",
+  "date_posted": "",
+  "tags": [],
+  "skills": [
+    "data science",
+    "etl",
+    "generative ai",
+    "machine learning"
+  ],
+  "responsibilities": [],
+  "raw_text_excerpt": "Generative AI Engineer\nHCLTech\nGreater Hyderabad Area\nYour job alert has been created: Artificial Intelligence Engineer in Hyderabad, Telangana, India.\n\nYou’ll receive notifications when new jobs are ",
+  "verification": {
+    "verified": false,
+    "score": 0.0,
+    "provider": "tavily",
+    "raw": {
+      "http_status": 404,
+      "body": ""
+    }
+  }
+}

@@ -26,7 +26,6 @@ jobs:
       - name: Run GitHub ingest
         env:
           GITHUB_TOKEN: ${{ secrets.secondbrain }}
-          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
         run: python deterministic_ingestion/ingest_github.py
 
       - name: Run RSS ingest
@@ -48,6 +47,8 @@ jobs:
         run: python deterministic_ingestion/ingest_youtube.py || echo 'no youtube config'
 
       - name: Normalize jobs
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
         run: python deterministic_ingestion/normalize_job.py
 
       - name: Normalize GitHub and LMS sources
